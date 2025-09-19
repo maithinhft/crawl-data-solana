@@ -4,7 +4,8 @@ import os
 from dotenv import load_dotenv
 from tqdm import tqdm
 from solders.pubkey import Pubkey
-from solana.rpc.api import AsyncClient, Commitment
+from solana.rpc.async_api import AsyncClient
+from solana.rpc.commitment import Commitment
 from spl.token.instructions import unpack_account
 from spl.token.constants import TOKEN_PROGRAM_ID
 
