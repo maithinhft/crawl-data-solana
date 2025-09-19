@@ -57,14 +57,14 @@ async def main():
 
     bot_service = BotService()
 
-    # --- Phần 1: Tải dữ liệu từ Dune (bỏ comment nếu cần chạy lại) ---
-    for key, query_id in QUERY_ID.items():
-        print(f"Bắt đầu fetch data cho {key}...")
-        data = await fetch_data(query_id)
-        with open(f'data/{key}.json', 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        print(f"Đã fetch và lưu xong data cho {key}")
-        await sleep(1000)
+    # # --- Phần 1: Tải dữ liệu từ Dune (bỏ comment nếu cần chạy lại) ---
+    # for key, query_id in QUERY_ID.items():
+    #     print(f"Bắt đầu fetch data cho {key}...")
+    #     data = await fetch_data(query_id)
+    #     with open(f'data/{key}.json', 'w', encoding='utf-8') as f:
+    #         json.dump(data, f, ensure_ascii=False, indent=2)
+    #     print(f"Đã fetch và lưu xong data cho {key}")
+    #     await sleep(1000)
 
     # --- Phần 2: Xử lý top_holder_sol ---
     print("\n--- Bắt đầu xử lý top_holder_sol ---")

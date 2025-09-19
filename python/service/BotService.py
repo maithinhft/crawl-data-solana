@@ -27,6 +27,7 @@ class BotService:
                 if result.get("message") == "success":
                     return result.get("data", {}).get("tags")
             except Exception as e:
+                print(f"Error fetching data for user {user}: {e}")
                 return None
             return None
 
@@ -53,6 +54,7 @@ class BotService:
                     total_sold = int(result.get("data", {}).get("total_sold_income", 0))
                     return total_bought + total_sold
             except Exception as e:
+                print(f"Error fetching data for user {user}: {e}")
                 return None
             return None
 
