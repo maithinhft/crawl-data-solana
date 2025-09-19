@@ -23,7 +23,6 @@ class BotService:
             api_url = f"https://gmgn.ai/api/v1/wallet_stat/{chain_symbol}/{user}/7d"
             try:
                 result = await self.page.evaluate(f"fetch('{api_url}').then(res => res.json())")
-                await asyncio.sleep(0.2) 
                 if result.get("message") == "success":
                     return result.get("data", {}).get("tags")
             except Exception as e:
@@ -35,6 +34,7 @@ class BotService:
             tags = await fetch_user_data(user)
             if tags is not None:
                 users_infos[user] = tags
+            await asyncio.sleep(0.2) 
         
         return users_infos
 
@@ -62,7 +62,7 @@ class BotService:
             volume = await fetch_user_volume(user)
             if volume is not None:
                 users_infos[user] = volume
-        
+            await asyncio.sleep(0.2) 
         return users_infos
 
     async def close(self):
