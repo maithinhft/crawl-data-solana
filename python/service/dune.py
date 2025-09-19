@@ -5,6 +5,7 @@ from .helper import sleep
 DUNE_API_KEY = os.getenv("DUNE_API_KEY", "")
 
 async def fetch_data(query_id: int, page_size: int = 400) -> list:
+    print(DUNE_API_KEY)
     results = []
     offset = 0
     has_more = True

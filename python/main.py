@@ -51,13 +51,10 @@ async def main():
     print(f"Đang nạp biến môi trường từ: {path_to_env_file}")
     load_dotenv(dotenv_path=path_to_env_file)
     
-    DUNE_API_KEY = os.getenv("DUNE_API_KEY", "")
     HELIUS_API_KEY = os.getenv("HELIUS_API_KEY", "")
     HELIUS_RPC_URL = f"https://mainnet.helius-rpc.com/?api-key={HELIUS_API_KEY}"
     connection = AsyncClient(HELIUS_RPC_URL)
 
-    print(DUNE_API_KEY, HELIUS_API_KEY);
-    
     bot_service = BotService()
 
     # --- Phần 1: Tải dữ liệu từ Dune (bỏ comment nếu cần chạy lại) ---
