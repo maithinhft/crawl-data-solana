@@ -6,7 +6,7 @@ from tqdm import tqdm
 from solders.pubkey import Pubkey
 from solana.rpc.async_api import AsyncClient
 from solana.rpc.commitment import Commitment
-from spl.token.instructions import unpack_account
+from solders.token.state import TokenAccount as TokenAccountState
 from spl.token.constants import TOKEN_PROGRAM_ID
 
 from service.helper import sleep
@@ -106,7 +106,7 @@ async def main():
                 try:
                     acc_info_res = await connection.get_account_info(Pubkey.from_string(item['address']))
                     if acc_info_res.value:
-                        unpacked_acc = unpack_account(acc_info_res.value.data)
+                        unpacked_acc = TokenAccountState.decode(acc_info_res.value.data)
                         item['token_balance_owner'] = str(unpacked_acc.owner)
                     await sleep(100)
                 except Exception:
