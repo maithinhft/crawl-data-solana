@@ -2,8 +2,6 @@ import os
 import httpx
 from .helper import sleep
 
-HELIUS_API_KEY = os.getenv("HELIUS_API_KEY", "")
-URL = f"https://mainnet.helius-rpc.com/?api-key={HELIUS_API_KEY}"
 TOKEN_PROGRAM_ID = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
 
 async def fetch_token_holder(
@@ -11,6 +9,8 @@ async def fetch_token_holder(
     limit: int | None = None,
     after_address: str | None = None,
 ) -> list:
+    HELIUS_API_KEY = os.getenv("HELIUS_API_KEY", "")
+    URL = f"https://mainnet.helius-rpc.com/?api-key={HELIUS_API_KEY}"
     TOKEN_ACC_SIZE = 165
     accounts = []
     pagination_key = ""
@@ -76,6 +76,8 @@ async def fetch_token_holder(
     return accounts
 
 async def fetch_multi_account_infos(list_public_key: list[str]) -> list:
+    HELIUS_API_KEY = os.getenv("HELIUS_API_KEY", "")
+    URL = f"https://mainnet.helius-rpc.com/?api-key={HELIUS_API_KEY}"
     async with httpx.AsyncClient() as client:
         json_body = {
             "jsonrpc": "2.0",
