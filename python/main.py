@@ -8,17 +8,12 @@ from solana.rpc.async_api import AsyncClient
 from solana.rpc.commitment import Commitment
 from solders.token.state import TokenAccount as TokenAccountState
 from spl.token.constants import TOKEN_PROGRAM_ID
+import argparse
 
 from service.helper import sleep
 from service.dune import fetch_data
 from service.helius import fetch_multi_account_infos
 from service.BotService import BotService
-
-load_dotenv()
-
-HELIUS_API_KEY = os.getenv("HELIUS_API_KEY", "")
-HELIUS_RPC_URL = f"https://mainnet.helius-rpc.com/?api-key={HELIUS_API_KEY}"
-connection = AsyncClient(HELIUS_RPC_URL)
 
 QUERY_ID = {
     "top_holder_sol": 5783669,
@@ -36,6 +31,31 @@ def load_json_file(file_path):
         return []
 
 async def main():
+    parser = argparse.ArgumentParser(description="Load environment variables from a specified file.")
+    
+    parser.add_argument(
+        '--env-file', 
+        type=str, 
+        required=True,  
+        help="The path to the .env file to load."
+    )
+    
+    args = parser.parse_args()
+    
+    path_to_env_file = args.env_file
+    
+    if not os.path.exists(path_to_env_file):
+        print(f"Lỗi: File môi trường không tồn tại tại đường dẫn '{path_to_env_file}'")
+        return
+
+    print(f"Đang nạp biến môi trường từ: {path_to_env_file}")
+    load_dotenv(dotenv_path=path_to_env_file)
+    
+    HELIUS_API_KEY = os.getenv("HELIUS_API_KEY", "")
+    HELIUS_RPC_URL = f"https://mainnet.helius-rpc.com/?api-key={HELIUS_API_KEY}"
+    connection = AsyncClient(HELIUS_RPC_URL)
+
+    
     bot_service = BotService()
 
     # --- Phần 1: Tải dữ liệu từ Dune (bỏ comment nếu cần chạy lại) ---
