@@ -1,0 +1,2522 @@
+[
+  {
+    "address": "JNK45gwenyqjk85JN44XekEYytZFGRubTabSNSXgT9u",
+    "data_type": "holder_info",
+    "sol_balance": 2104.116329933,
+    "token_balance_owner": "AVUCZyuT35YSuj4RH7fwiyPu82Djn2Hfg7y2ND2XcnZH",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 518748.3372175906,
+    "volume": 0
+  },
+  {
+    "address": "4R6xuU6Q6TqWEC9rQ4s7A1WsQNVKCUgZj81KAxAy24XV",
+    "data_type": "holder_info",
+    "sol_balance": 2100.22613427,
+    "token_balance_owner": "Ge8xkdPrPU2tP22nKWBHocCZ6ezfHTLGHZzLsPmEtozH",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 517789.2480410748,
+    "volume": 37274816
+  },
+  {
+    "address": "4pueJSozReq8pe1ujRBgqBoZtSByY6jh1gZspSxD7hqt",
+    "data_type": "holder_info",
+    "sol_balance": 2085.495808581,
+    "token_balance_owner": "5WoxBbmY3px4VnQayLMtw75QFfscgoWNwWDa8QcxaY8D",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 514157.6338834686,
+    "volume": 0
+  },
+  {
+    "address": "ApuPYDknwpD7FA9NjR55RJeGeA4RmpWXcq9kphjYBcGJ",
+    "data_type": "holder_info",
+    "sol_balance": 2063.963684467,
+    "token_balance_owner": "CwHFgfaUd4AiQqc9cGZF6gjnuWQnayDHp7dEam5DAtXf",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 508849.0988164617,
+    "volume": 1799949
+  },
+  {
+    "address": "HCHjTSYbe2rPneqpL6t7vFCUTACwGq1YR551wjuhTjjK",
+    "data_type": "holder_info",
+    "sol_balance": 2047.002039279,
+    "token_balance_owner": "AwHNSHC8zxBKPqr8VREwa7fKKP3mWrD9wE7gri9kgHjo",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 504667.37999975344,
+    "volume": 0
+  },
+  {
+    "address": "8uuxdPumkTJWX1xx4GrSLX2Uvh3ny4D35MvXYTbP9qLE",
+    "data_type": "holder_info",
+    "sol_balance": 2041.260308391,
+    "token_balance_owner": "GtVh5kbRQzM7t6y4oRvChuHueSXSJL8E8rwGAatzsNNG",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 503251.8136666259,
+    "volume": 0
+  },
+  {
+    "address": "8wDz8A8kyQk9t4D52SnFm52YTQey3ijz8PfydCk5XUmh",
+    "data_type": "holder_info",
+    "sol_balance": 2027.140297264,
+    "token_balance_owner": "4mHHmYoH1g4KcRx44ZcMPCcPgMfCfQXKCwpEgjTFE6sE",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 499770.6661233753,
+    "volume": 0
+  },
+  {
+    "address": "BsWDfXkzWFwP8kktiiFoXxitvsqNaLVS9KTc9EbLhqaQ",
+    "data_type": "holder_info",
+    "sol_balance": 1961.00203928,
+    "token_balance_owner": "3cmWRfWGsnWMVDjPufUg3jKzDpbEz446G8U4kDQj47g4",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 483464.94,
+    "volume": 0
+  },
+  {
+    "address": "Avw8MGRPX9q6MjTBUa37wLoUkCESsfBfvshivkpLXzNc",
+    "data_type": "holder_info",
+    "sol_balance": 1951.819928064,
+    "token_balance_owner": "GXbJWY8H5YwvhrRYZvSWUAcGMGjR7ygUkQNwZxefgzdm",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 481201.1823008073,
+    "volume": 0
+  },
+  {
+    "address": "A4DCaJerxrhzLJZ84e6ygSbooRxsBRnMestYqyqGAbAY",
+    "data_type": "holder_info",
+    "sol_balance": 1893.022984817,
+    "token_balance_owner": "Hoegew63QPEbQjXvoTydKQYJqaLKiK1CZGvmXyprcQrt",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 466705.38391269196,
+    "volume": 567520
+  },
+  {
+    "address": "EYSauhmVwM4Eqs239yTroeo9m5FEz5SU59FLY2BZK5ha",
+    "data_type": "holder_info",
+    "sol_balance": 1708.001848384,
+    "token_balance_owner": "AYAEHJvwCnXxJDihFU7AjWew19728Q62PmJ52dtGBii6",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 421090.27293650014,
+    "volume": 0
+  },
+  {
+    "address": "9cEJkh23NXGycxvAaGmxZpauqeB61rVNBNJUcFQj32Qn",
+    "data_type": "holder_info",
+    "sol_balance": 1475.126859836,
+    "token_balance_owner": "3KT7E4M55mLtk3SFqPgFajcgrnoGLryxXfqWbgVhWCiR",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 363677.27079447627,
+    "volume": 191744
+  },
+  {
+    "address": "C3Rwr7utTwgXpPzuMkWhvTA9LfKSrzxtgzKeZN5LnsxK",
+    "data_type": "holder_info",
+    "sol_balance": 1443.98961869,
+    "token_balance_owner": "HWbAZdGAPijkMqBUyoes8spNdu29nzhxByfFAVLzEXtU",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 356000.6975809548,
+    "volume": 0
+  },
+  {
+    "address": "2wxn63NcG6tKvSvgKoRSasNVB52PjgrztypW2NeNjY4v",
+    "data_type": "holder_info",
+    "sol_balance": 1355.990274443,
+    "token_balance_owner": "7WD9w3gBQnVzY8ZauyexwY9F3ojt3z4R8oLqoTLKHYvz",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 334305.339497086,
+    "volume": 4915834
+  },
+  {
+    "address": "2FvmCow9Gpo56C6RGB3KzDStA5hQ6gaWJkH83E9JGC68",
+    "data_type": "holder_info",
+    "sol_balance": 1320.668886356,
+    "token_balance_owner": "5d8tDay1ZDV4XVUBtTvFvQiLxDe8dz2ZCdsrkmTDcbm5",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 325597.20447811706,
+    "volume": 6556089
+  },
+  {
+    "address": "umiAsegEDQeKMAfqPhqNxxYDsXo8fuhQy7HHE7viKud",
+    "data_type": "holder_info",
+    "sol_balance": 1292.58945525,
+    "token_balance_owner": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 318674.50153324375,
+    "volume": 0
+  },
+  {
+    "address": "EBkLyWYd9fAqhjzSSwkDAf8hLNKy8frHLJ8PHVXSgUz3",
+    "data_type": "holder_info",
+    "sol_balance": 1283.962616072,
+    "token_balance_owner": "4nE98eYJ4YySNFgz58NyyqwodxExEkbnnZYZmyPNPvu5",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 316547.64060229965,
+    "volume": 2838548
+  },
+  {
+    "address": "E5ZZ1xScoN8keCbgjbW3L35b8GR6YHEiK7wxhLZe6EFo",
+    "data_type": "holder_info",
+    "sol_balance": 30680.193479827,
+    "token_balance_owner": "DdHDoz94o2WJmD9myRobHCwtx1bESpHTd4SSPe6VEZaz",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 7563894.397752457,
+    "volume": 0
+  },
+  {
+    "address": "6iALDRKVH7JFCJKbRxu9iDvTLYa97RgQttNm6mvACqeo",
+    "data_type": "holder_info",
+    "sol_balance": 15232.677695017,
+    "token_balance_owner": "ECHhYtSogLASVDZ8NTg1w7oCo2aeJGnNu4pDNvorwB9a",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 3755463.8561654002,
+    "volume": 0
+  },
+  {
+    "address": "Csw9ij6dvs4zdx8GWo1G38HEXSkNeRnXrXvvzcvtgi2y",
+    "data_type": "holder_info",
+    "sol_balance": 11207.178841426,
+    "token_balance_owner": "9mgcJRDhnL4ZNXS8cxjrVNkeFNggtFmRLXUgJL1pdY2A",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 2763017.3688010746,
+    "volume": 0
+  },
+  {
+    "address": "DtsKy4G1suaFPCszDBXZHQLvShQWucybL4V8Z82y2fYj",
+    "data_type": "holder_info",
+    "sol_balance": 8846.15301604,
+    "token_balance_owner": "GtxgnRiSfBzahR9xb7hvYbWq3Uzez7hpCz2BJbCLxKdq",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 2180930.06181041,
+    "volume": 0
+  },
+  {
+    "address": "HMdJLJkRQQRGyEAdujSTkQ6K17S2fGnBm7SzyvPXnThy",
+    "data_type": "holder_info",
+    "sol_balance": 5545.482843343,
+    "token_balance_owner": "5ndLnEYqSFiA5yUFHo6LVZ1eWc6Rhh11K5CfJNkoHEPs",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 1367182.8374334455,
+    "volume": 0
+  },
+  {
+    "address": "5wo1tFpi4HaVKnemqaXeQnBEpezrJXcXvuztYaPhvgC7",
+    "data_type": "holder_info",
+    "sol_balance": 4239.597721242,
+    "token_balance_owner": "9RuqAN42PTUi9ya59k9suGATrkqzvb9gk2QABJtQzGP5",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 1045224.1150102579,
+    "volume": 0
+  },
+  {
+    "address": "7jcTwYAN2Ai7C3hjfa2hkRsd9B3BiFXY3kniXD4eJucP",
+    "data_type": "holder_info",
+    "sol_balance": 3493.24931597,
+    "token_balance_owner": "YubQzu18FDqJRyNfG8JqHmsdbxhnoQqcKUHBdUkN6tP",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 861189.0738601164,
+    "volume": 0
+  },
+  {
+    "address": "GShxvtESt69624EjwvbLBTHmQYcBUn6KKce3Wm7fCqmL",
+    "data_type": "holder_info",
+    "sol_balance": 3482.924965091,
+    "token_balance_owner": "G3ztVULQTspy6wBwKVtGHMfX3GBi1FtsfQHzz3RU2bon",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 858679.8181294439,
+    "volume": 2510778
+  },
+  {
+    "address": "24BpSCb5UX1u1TBEHasiEpLXvrPXVBV2YfeiHNHbZPoT",
+    "data_type": "holder_info",
+    "sol_balance": 2960.067695532,
+    "token_balance_owner": "wfvDFTYEqsJQoaVGx7UUWcUU5r7SGNCcZcH24z8Jyc5",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 729774.586892368,
+    "volume": 0
+  },
+  {
+    "address": "EMMURcJvMRiNFJt4PByss6dtwMMUYcBmMFE6SAfhpKd7",
+    "data_type": "holder_info",
+    "sol_balance": 2932.540178784,
+    "token_balance_owner": "gtagyESa99t49VmUqnnfsuowYnigSNKuYXdXWyXWNdd",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 722987.9529133161,
+    "volume": 15080314
+  },
+  {
+    "address": "7go4EFywm6CGi1ckG3AcndEuWpDWt8m4AXHxqjTtTtBz",
+    "data_type": "holder_info",
+    "sol_balance": 2872.068137634,
+    "token_balance_owner": "55NQkFDwwW8noThkL9Rd5ngbgUU36fYZeos1k5ZwjGdn",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 708079.1758879486,
+    "volume": 22090797
+  },
+  {
+    "address": "EZpXfM7VqMPtYpygKkRQTipcvQ7hSPXz6AaL6zakVp7A",
+    "data_type": "holder_info",
+    "sol_balance": 2818.523181772,
+    "token_balance_owner": "2CmeiQwtHbFk1skDuPChL5fakT9nhEj3oLhTofUh6tuG",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 694878.2024699777,
+    "volume": 0
+  },
+  {
+    "address": "9DfbuvM9KdFLjAahBnGccK76EM8PJJ374kBzctHBQ3qL",
+    "data_type": "holder_info",
+    "sol_balance": 2593.871558012,
+    "token_balance_owner": "5xwMjxr3BkP3XCXLWKuRGWPj1h3cjnxhS2XAha7Fbi1q",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 639492.5911479407,
+    "volume": 0
+  },
+  {
+    "address": "76rSK35aFEt1uc5ZpCXv3t5bJAjR7KUX4H4adzFdJZti",
+    "data_type": "holder_info",
+    "sol_balance": 2525.589508902,
+    "token_balance_owner": "Cr6v6hzmEGhxEHUiVtQRuVTj65cGRzhmKZ6mru8ARY1r",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 622658.3347606078,
+    "volume": 6
+  },
+  {
+    "address": "9upswNSuJAyMh1BAmm8RbUfrRqsLC16PCdy49zQYJiZ8",
+    "data_type": "holder_info",
+    "sol_balance": 1225.129793041,
+    "token_balance_owner": "benRLpbWCL8P8t51ufYt522419hGF5zif3CqgWGbEUm",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 302042.9964122369,
+    "volume": 99419
+  },
+  {
+    "address": "8CFK6fBzbLjMfkE9Sr7Pc67216AZ5YMpfCaSEM29yKfz",
+    "data_type": "holder_info",
+    "sol_balance": 1201.030076607,
+    "token_balance_owner": "CLarASzzPrBfBFB5nTqWWXwWrLNcPgFtqTBR6WPGSNQM",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 296101.45232259855,
+    "volume": 0
+  },
+  {
+    "address": "1YvhdydRKAnyqHFSGbziXdQnSYX8sseyfgLEh4C4wLQ",
+    "data_type": "holder_info",
+    "sol_balance": 1167.842047919,
+    "token_balance_owner": "2jwP4cuugAAYiGMjVuqvwaRS2Axe6H6GvXv3PxMPQNeC",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 287919.275729859,
+    "volume": 0
+  },
+  {
+    "address": "E1xsn9E5M1X9A3GsHhK4po3vaGFkbPV51WPrSZZzSp2N",
+    "data_type": "holder_info",
+    "sol_balance": 1080.759858783,
+    "token_balance_owner": "7p3tggT6TrwQZkDFgk9ZhjpdcxVpKzzaYpxPxfmKYD8",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 266450.03232694307,
+    "volume": 1462966
+  },
+  {
+    "address": "Hq5vtHyJZUQ2v7N2uEifa4RRFMvDQojK3DwE5it6YB3U",
+    "data_type": "holder_info",
+    "sol_balance": 1080.001636048,
+    "token_balance_owner": "GRV6aYozLxNaH1Yj6T2h2qfEog9ctssas6brwCcbuSK5",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 266263.0968888362,
+    "volume": 0
+  },
+  {
+    "address": "7pCDCwva8MWyff7WhV644Wi27PTHCxKKbvLKYWxzhx2V",
+    "data_type": "holder_info",
+    "sol_balance": 1077.422001948,
+    "token_balance_owner": "ExDiKQm7Ku8ru2Ndrf3abui7uxbmyercVue6xfEjVq7c",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 265627.1175961687,
+    "volume": 0
+  },
+  {
+    "address": "ATwiQSStcgbN8kUpx5LkTVL6ZM15ScCa9h5YecabHRbV",
+    "data_type": "holder_info",
+    "sol_balance": 1077.317929005,
+    "token_balance_owner": "Fc9hhpQQ49AynYoKytqcpcsxw4ngCRjL6MYE8zWd63qH",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 265601.4594528015,
+    "volume": 0
+  },
+  {
+    "address": "HxP9cKUZ8CxQiDF2H89kAbteprnU3z6t7XWvNSGVESvr",
+    "data_type": "holder_info",
+    "sol_balance": 1040.399832992,
+    "token_balance_owner": "FE2MHWLTSmndBUWbbtmnfUfoKrn9NKtDCDGxCPG2h9Dy",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 256499.6720617565,
+    "volume": 10422969
+  },
+  {
+    "address": "8xArVb2EAyLBVCGX2yRzgwxBLhX2M86wh8ZQZpdJXZk1",
+    "data_type": "holder_info",
+    "sol_balance": 1022.701216057,
+    "token_balance_owner": "RBHdGVfDfMjfU6iUfCb1LczMJcQLx7hGnxbzRsoDNvx",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 252136.25504260158,
+    "volume": 0
+  },
+  {
+    "address": "G12zqnHeVun2kXQXKjuD19V4qsLVEmwEMt41GLim8pxK",
+    "data_type": "holder_info",
+    "sol_balance": 1012.550127642,
+    "token_balance_owner": "6vaiQS9heEi9vEkwqPZXTFzfTHYEk2tDox5veZgejDwb",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 249633.60570476748,
+    "volume": 33284
+  },
+  {
+    "address": "6o7wxoYwK8ZLgTG3GZ8HxXwAJNGbrFNhZVgAoKTvYaK8",
+    "data_type": "holder_info",
+    "sol_balance": 1000.801124247,
+    "token_balance_owner": "EjwyFVptCZpPztbRsRWcquthJzRknziKphbRMihs6T25",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 246737.00640776416,
+    "volume": 0
+  },
+  {
+    "address": "5KWnkfpRRrLEtY7dKiYMQBxP5QAJ7dpxxMxsokzZRBBL",
+    "data_type": "holder_info",
+    "sol_balance": 913.236984516,
+    "token_balance_owner": "ECqLxPxRMkHec4ZFa7YJdcjJGpPo92JfJgy4Mx3VjCVw",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 225148.94339848345,
+    "volume": 0
+  },
+  {
+    "address": "Fw41mUTZ14JmoJJsu2eio3frbtqCPKd4JXcw5mKFS4u1",
+    "data_type": "holder_info",
+    "sol_balance": 812.783743567,
+    "token_balance_owner": "RaVenxw8kykBbW7KGBaBsb7fDkkBYK4uJVDSFun6ZxR",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 200383.20137491697,
+    "volume": 23923892
+  },
+  {
+    "address": "67nfWx7rVpfyusucvPUynzKNs1GjrANqRwPvNM8QLYdp",
+    "data_type": "holder_info",
+    "sol_balance": 807.257679287,
+    "token_balance_owner": "6nATHHoEC2qTXi7Zcu5Ad2NcSTzUU1SaseZvv3iifgfB",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 199020.80548732576,
+    "volume": 1013228
+  },
+  {
+    "address": "9jpjB32MMuZFf98bHDYeTv81cnoCdNN5q3vcfdMUba8M",
+    "data_type": "holder_info",
+    "sol_balance": 801.387497288,
+    "token_balance_owner": "5e3f2uvk3P5ep2mdmhsF2BBGR645LFbg4bV1VrxLxDn9",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 197573.57081729232,
+    "volume": 0
+  },
+  {
+    "address": "ACJh17yxqpPxGCVMwhiHgV6gkUL6SCrXWRJmv6Kargcs",
+    "data_type": "holder_info",
+    "sol_balance": 760.300281177,
+    "token_balance_owner": "PcSoLFrcq7QCkRQKs1XbwcsYvQwVYYHmubEt1BenEWJ",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 187443.9285572864,
+    "volume": 0
+  },
+  {
+    "address": "9L9sNdQsFU9unVgU8gTY3RH79VzDTeWBNoBBvxqZPXuB",
+    "data_type": "holder_info",
+    "sol_balance": 750.00203928,
+    "token_balance_owner": "BDeNHj6VUThquWMLCaNzcRxRqN8jjPUucw4STDHouEmv",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 184905,
+    "volume": 0
+  },
+  {
+    "address": "8cmgRUVLxyo5iMJNNSLpKDcjhzUf4Vh8zbaEsTqyFygj",
+    "data_type": "holder_info",
+    "sol_balance": 739.659825256,
+    "token_balance_owner": "3NgFNFJBp7GAZDgm9vinbowrEvj7f4wepKVzKeqhcDFN",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 182355.23055452303,
+    "volume": 1183998
+  },
+  {
+    "address": "GsdGShrDJM5xLB9EbZ9oJR7RCh9Ao9pGmgd3Av5bxgiT",
+    "data_type": "holder_info",
+    "sol_balance": 720.821402912,
+    "token_balance_owner": "3WNGFqbpaBjdYcf48orozmyBwC8MxZN9TvsiTCdQoEzh",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 177710.80590958672,
+    "volume": 0
+  },
+  {
+    "address": "96BisGfoBfybWkAfuL3oepK6yhgaYTikEWXxzUkbnKjr",
+    "data_type": "holder_info",
+    "sol_balance": 706.72190102,
+    "token_balance_owner": "6S7pkxXhmSumkpPJjB3Ubr9Cx4DHTaYTnTKKa9pvXmEM",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 174234.7147133796,
+    "volume": 0
+  },
+  {
+    "address": "66YFxGRxgyGVPZH3ZB5RYbWKZjXTuum8YNuRuyWRk6vM",
+    "data_type": "holder_info",
+    "sol_balance": 704.845182628,
+    "token_balance_owner": "CuCyvUgG3779tr52ubiHoRj8QwVeaa6LvVvCSYgjcRXC",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 173772.0285610159,
+    "volume": 15085436
+  },
+  {
+    "address": "79JTKjd6CxbzcFeme1dA9hyUCFs79HWDw6mPgPRwWuEA",
+    "data_type": "holder_info",
+    "sol_balance": 700.069734871,
+    "token_balance_owner": "KKKzQmS38mSxHu7AaasGghGgVqoEt2DS8M5AcBMVK3j",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 172594.68967100512,
+    "volume": 2750148
+  },
+  {
+    "address": "8NeJmfcTuQCTMMd2X93udTege9NThRrNmKERj2TNLPRs",
+    "data_type": "holder_info",
+    "sol_balance": 690.91203928,
+    "token_balance_owner": "k1bWgJv1fdVMCqgDM2jkEfhEzKW7XgGpj8vGGKjgSnJ",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 170336.9514,
+    "volume": 1706900
+  },
+  {
+    "address": "AUyBSepyDT5qtVcBCCpyEPYr7HieaycdmFX11dWZk8ec",
+    "data_type": "holder_info",
+    "sol_balance": 665.655553894,
+    "token_balance_owner": "8ecQFemGQaEeqBMRzfmvwUQ9SQDgeen1fxNDA6SAyF3G",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 164110.21749293554,
+    "volume": 0
+  },
+  {
+    "address": "2QKf7Em3GKoEZFvSEs1u2t94P5UbvN3e1Jhvvqerhb2p",
+    "data_type": "holder_info",
+    "sol_balance": 650.4510463,
+    "token_balance_owner": "7hGiaX1CvXHcdkM5HXDGMgTnshPMeWTG7ct2A9QWaBVb",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 160361.69819071077,
+    "volume": 945691
+  },
+  {
+    "address": "8eHH45gvzEMNQ9Y5Ac61h54miHEQrNwAM3yJmnNZUf2Y",
+    "data_type": "holder_info",
+    "sol_balance": 649.765421055,
+    "token_balance_owner": "HR8hyAPLyQ7P3xDKVHHSPy61zPNHWZWTQ8TTGEVgq2Fv",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 160192.6641428085,
+    "volume": 0
+  },
+  {
+    "address": "4hPgTLgPPALr5bzdknybboWFXrSQLdxA6bBr1f2VeRTH",
+    "data_type": "holder_info",
+    "sol_balance": 635.739797798,
+    "token_balance_owner": "GAVWn3mBueckTdKKyJjmNX6wGmx7oKHjNrZAmx36x5kK",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 156734.78698502772,
+    "volume": 0
+  },
+  {
+    "address": "B62NGsHmfH1aqJkb9XGB1sEWcWh85k2ErPzhiD2hVrWj",
+    "data_type": "holder_info",
+    "sol_balance": 629.512127597,
+    "token_balance_owner": "CG8nLp19VfoJdzJTcZRu181deCmckmtgBYxWGcH3wbRT",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 155199.4171736732,
+    "volume": 2629277
+  },
+  {
+    "address": "9sttC84zFtX4XyJeUDtkL899tVAHEkRmjhUYqLnuFCrH",
+    "data_type": "holder_info",
+    "sol_balance": 628.852615474,
+    "token_balance_owner": "2RtGg6fsFiiF1EQzHqbd66AhW7R5bWeQGpTbv2UMkCdW",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 155036.82105486878,
+    "volume": 0
+  },
+  {
+    "address": "9YhLR5yu8wAaZqRY8tSRdmffQH2dXd8y6Be2MfLBwQBh",
+    "data_type": "holder_info",
+    "sol_balance": 627.358215411,
+    "token_balance_owner": "7CZpoAtoLjSC5Y2wVT5WSGy3DvtqDbdJGuy7F44a1wFS",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 154668.39166333672,
+    "volume": 7286467
+  },
+  {
+    "address": "7TLnNqEmwa18B6GSBYvSfK8KWdzHB9oSdg5RnFnSqxnz",
+    "data_type": "holder_info",
+    "sol_balance": 605.00203928,
+    "token_balance_owner": "FHFN2JoB5UyZAnQdphCpESWahZhyxb5z6BhiDzBo9qCS",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 149156.69999999998,
+    "volume": 101
+  },
+  {
+    "address": "2pGTrapDQo6ee6ma1jYQcuaKgA9rc66mT6ZBqteLYzUL",
+    "data_type": "holder_info",
+    "sol_balance": 601.635732908,
+    "token_balance_owner": "AoaDwKL5j8NL59JbLxagPZKuyzY7MTcgwFEcHB9LzqJp",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 148326.7708270471,
+    "volume": 0
+  },
+  {
+    "address": "2MPNipv2Ygam9TsJZGsk6hZygJYDzvb7CcmYFwDEmzak",
+    "data_type": "holder_info",
+    "sol_balance": 598.688300865,
+    "token_balance_owner": "ESZERcwH15AHRVyeapZer1xFQqb11JyhYuEjPukHvBge",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 147600.11093091936,
+    "volume": 13749602
+  },
+  {
+    "address": "9eHYns31CLaMnTeutz1AY7YCbsSnJWvahn2TUk23ybry",
+    "data_type": "holder_info",
+    "sol_balance": 598.187591273,
+    "token_balance_owner": "FSkmRPArUnFFGZuRUdZ1W7vh5Hm7KqgjDQ19UBjW2kbC",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 147476.66598835422,
+    "volume": 16190910
+  },
+  {
+    "address": "D1eNAUNudrP2mCWJjDM1h5MDuQwcz1XQxreTpwCbxdhE",
+    "data_type": "holder_info",
+    "sol_balance": 591,
+    "token_balance_owner": "CbYf9QNrkVgNRCMTDiVdvzMqSzXh8AAgnrKAoTfEACdh",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 145704.6372359088,
+    "volume": 0
+  },
+  {
+    "address": "DyhG3fABG7Nj7qRQW8xpQFmZQuWrppm97FrvfdDzW6Ja",
+    "data_type": "holder_info",
+    "sol_balance": 586.754488344,
+    "token_balance_owner": "AU5zsuFjq8Aa27mZotAAdLNYNfT3AxEzVqdmszvWoneg",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 144657.948545452,
+    "volume": 0
+  },
+  {
+    "address": "DE9hLQzfsZ9PJPuhSttEzeV8fzyQqFbraTWG1vyMLsdb",
+    "data_type": "holder_info",
+    "sol_balance": 532.074459061,
+    "token_balance_owner": "CuwxHwz42cNivJqWGBk6HcVvfGq47868Mo6zi4u6z9vC",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 131177.13437280775,
+    "volume": 16702995
+  },
+  {
+    "address": "2uLNesmB7CEB4vSF4P8XDsW6hoLfCpyhUmzs5YC7kEhq",
+    "data_type": "holder_info",
+    "sol_balance": 528.50203928,
+    "token_balance_owner": "8VRaHB4vZ4R2bZBk9JKRUXQHSaw3SjoAQTSWjWtFFsMx",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 130296.39,
+    "volume": 0
+  },
+  {
+    "address": "8KV7BNJSeAppE6R7XmvWev2qHceQfRPwFsDevZ5CtRX9",
+    "data_type": "holder_info",
+    "sol_balance": 523.456356793,
+    "token_balance_owner": "Bcxv7jCiVCfdzgZghGQpZBDDNGxRBLgDthmu469jHrCX",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 129052.4274389154,
+    "volume": 0
+  },
+  {
+    "address": "9epjZuWqXZW3e68wM8UW7vu4uZewP23vopfNwgw6nXzA",
+    "data_type": "holder_info",
+    "sol_balance": 502.102758129,
+    "token_balance_owner": "5FPWBJbp2uXsUBotrzHrkDYouUE29gBkL3RKva8uWHU1",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 123787.91122503245,
+    "volume": 40704
+  },
+  {
+    "address": "4xUroPq8NSAyVfrwY4asexXagZTxumDFfdeXChh2oh2",
+    "data_type": "holder_info",
+    "sol_balance": 500.4629023,
+    "token_balance_owner": "3YPZ5PCyfgibehpH2bxU5dZFunC8R7veYKYFbpmei7Z2",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 123383.62116895079,
+    "volume": 969390
+  },
+  {
+    "address": "BLoWRATPUQkTqXrJSjXVwm2GLNpHDxUR3vT4X1vK76LN",
+    "data_type": "holder_info",
+    "sol_balance": 500.00203928,
+    "token_balance_owner": "7nEwfVqJNjqjVyAEyTWneAeiqo7w1aRSdNKrQtsMCMSJ",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 123270,
+    "volume": 0
+  },
+  {
+    "address": "FbSTyscdVhTHFt8guFXDcuxWwodr9QzmCaes6YmzFDrH",
+    "data_type": "holder_info",
+    "sol_balance": 474.00203928,
+    "token_balance_owner": "8win81gNvr3YB6rZa1eW5Zmir69rBXVyNnivA9R5wKVB",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 116859.95999999999,
+    "volume": 0
+  },
+  {
+    "address": "24kKF6CftvXptbanS4HmkpbxhtLE6Mz2a1Y69pUGXszW",
+    "data_type": "holder_info",
+    "sol_balance": 473.501567921,
+    "token_balance_owner": "8zkgFGVZrDLieViwqiXFCydSX6WL5hsxmUu55yBdsNsZ",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 116736.57379115213,
+    "volume": 9476509
+  },
+  {
+    "address": "AD3VDMzdZQueCxeKRtS3BjKw71pU4Uyaf2iHhH8s84Wt",
+    "data_type": "holder_info",
+    "sol_balance": 450.00203928,
+    "token_balance_owner": "FDe2xD1dySHgnVMkTY8sJAdmEVQg133TjPxa1S5ooVXC",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 110943,
+    "volume": 0
+  },
+  {
+    "address": "8eZcXkQRSakpigpPEAQ6uN2XyJojfxkr5Jxb9WzhpVU5",
+    "data_type": "holder_info",
+    "sol_balance": 442.778372589,
+    "token_balance_owner": "9mgz9jePQQWU7brD2Kpb63ZYMJ5YNWsYJT9bVtJNgTUt",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 109162.07696746086,
+    "volume": 2236118
+  },
+  {
+    "address": "4rJe4emjb8CoxWx9pfVuJ2X4ZjcvrVWY19JJcV8jGzPG",
+    "data_type": "holder_info",
+    "sol_balance": 441.297278444,
+    "token_balance_owner": "6v3nv8BUJKpXvnBnD4ZvpDiG3u847ALLYyo1NACn2zmV",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 108796.92826349256,
+    "volume": 0
+  },
+  {
+    "address": "5Bv4zfDrGQ6HCvwvRjqKbRcwu1hYaNWLXQSj9v9MHbTT",
+    "data_type": "holder_info",
+    "sol_balance": 439.62453928,
+    "token_balance_owner": "E8FcodiweFytvap9ND7AJsZv3ssepLkxFg2gG9qBTAJX",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 108384.53115,
+    "volume": 0
+  },
+  {
+    "address": "7Ao1Zk4WJC3Cr9481GkzTMxktYJnkV8BFasMqGU7bYD5",
+    "data_type": "holder_info",
+    "sol_balance": 438.622250819,
+    "token_balance_owner": "7HHk4KBmJkLByUjRNq6F8SZ6JhMKZoCfVFmh2xyTnjxn",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 108137.42695282506,
+    "volume": 0
+  },
+  {
+    "address": "CmsXNmqJCcAhgFq9DBnrs793VJnNBMbv3emuvGQJKQL5",
+    "data_type": "holder_info",
+    "sol_balance": 434.586060926,
+    "token_balance_owner": "6YuLKyTHVG6WK83JShvERWB6mY77XmbijsdPc4oT1AwT",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 107142.34469660484,
+    "volume": 8833379
+  },
+  {
+    "address": "BUtV4amtgaCoWXGsJm2KkM6BVKxY4TZGjDmCdhjZpHEw",
+    "data_type": "holder_info",
+    "sol_balance": 433.106381409,
+    "token_balance_owner": "HSVAFD4yVv6HD9F2MZDcpFDGfCK7rgwFneEFQ92tB67b",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 106777.54450848365,
+    "volume": 0
+  },
+  {
+    "address": "G18WyquwhVPcCtWg5wyeoX65SJ1qT75E6syW21yn1W8n",
+    "data_type": "holder_info",
+    "sol_balance": 432.81259203,
+    "token_balance_owner": "EumEzPUvDCdjLQ3ZNdX2jZkZrSViLe7KXztMxhNYsQZn",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 106705.113674985,
+    "volume": 0
+  },
+  {
+    "address": "GxdmmyPBdTWV1eRr1J9CpXjw9zkHzs24vw9Qs7Ad87dD",
+    "data_type": "holder_info",
+    "sol_balance": 414.695390109,
+    "token_balance_owner": "D1ppLwXR7cUK6Fjjp6okS2udjxw9LpkLvjVNunyQApJ1",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 102238.49871338166,
+    "volume": 40671383
+  },
+  {
+    "address": "63TQxmgag6bxvFDEmxNHMQXFkr7SZUQ1TFxpjMQiZUe1",
+    "data_type": "holder_info",
+    "sol_balance": 412.668535305,
+    "token_balance_owner": "5b9LNsvbvxwobp7DYMs9hfcsn52mxdthJF9W4uN17Sj",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 101738.79793000351,
+    "volume": 0
+  },
+  {
+    "address": "9ZcZCDrBraTdUMBrD1RC8PJutdqBtC891HfUuWTBU9cv",
+    "data_type": "holder_info",
+    "sol_balance": 400.96504128,
+    "token_balance_owner": "DbxtEn9y5qLGqK9nrMyREoqtHuifW8S7gE8hXQCD1DFo",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 98853.41802,
+    "volume": 0
+  },
+  {
+    "address": "BqjtchQuxAYHQyQhc2Yfj4oujFMSDLVd2woL2HX6tU9H",
+    "data_type": "holder_info",
+    "sol_balance": 400.893406327,
+    "token_balance_owner": "YubozzSnKomEnH3pkmYsdatUUwUTcm7s4mHJVmefEWj",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 98835.75023532084,
+    "volume": 0
+  },
+  {
+    "address": "FN6zEGbWvFJFFiYv9UkmLWNLQaHJa44CXhdPhNBcKTFa",
+    "data_type": "holder_info",
+    "sol_balance": 400.00202928,
+    "token_balance_owner": "BGBYz455uKuQRpUoYmcYQvo4X6U9q5LDxDcg2r3VCktP",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 98615.9975346,
+    "volume": 2222702
+  },
+  {
+    "address": "6oB5n4GXFa3jnAuYyXruX2uJEFa1p4oxQ2iPs7CKC6Ad",
+    "data_type": "holder_info",
+    "sol_balance": 382.338876269,
+    "token_balance_owner": "7zujqoQsFic14ncDYhBSVGvDnqc94rE49c1ZJCHvAtiW",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 94261.32379126806,
+    "volume": 2476934
+  },
+  {
+    "address": "FiwXgSCGWaBcVTp9sxZ9bwiiXuzZKQXsruQg5SS6FvXm",
+    "data_type": "holder_info",
+    "sol_balance": 381.61008499,
+    "token_balance_owner": "DwaXWaLkgMUCKc71TpvGhYT6eKkKYL5Br1e35K9hvBU",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 94081.6475893434,
+    "volume": 0
+  },
+  {
+    "address": "JYBiKwvbiW9hiJVYo4iW4fX5xK4YfjecC6cnC7RqU9A",
+    "data_type": "holder_info",
+    "sol_balance": 379.44294754,
+    "token_balance_owner": "H1k9zT9nWroZ6dGZDR7zEhq8pPw3TMjjcNooiyPoY3Vi",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 93547.36152217386,
+    "volume": 0
+  },
+  {
+    "address": "HiQgKhpB4UW6hw5TgaczfrunQVYncZ56ko7vTvwZxc4i",
+    "data_type": "holder_info",
+    "sol_balance": 376.398124079,
+    "token_balance_owner": "B8rRQcxezoxgZB4gozpF4DvuG5VecmNsQvBFbRWrZ781",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 92796.69074634546,
+    "volume": 0
+  },
+  {
+    "address": "3LiJTZXSq2qzWXixUJHzr16VwShnrjTXGNkW8NJ9Vwsk",
+    "data_type": "holder_info",
+    "sol_balance": 368.860591265,
+    "token_balance_owner": "8w3XbNorLyU3wS3LApydpKDrYNpgkLNLK7Yn74iqoZDs",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 90938.3874063819,
+    "volume": 0
+  },
+  {
+    "address": "CTZvReCAXTAbfnvQ8jvN5aeVbrZjS4G9ji4ftNEzRN6r",
+    "data_type": "holder_info",
+    "sol_balance": 362.37503928,
+    "token_balance_owner": "qtpJtxAxyf9R9MwUYwcBn2NMChXS7XC6kexqiYWfype",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 89339.43942,
+    "volume": 0
+  },
+  {
+    "address": "3v88RxTThVXxn85RjiMRqgh6sgN6KfhfsEwUYQdEVLLp",
+    "data_type": "holder_info",
+    "sol_balance": 361.328418471,
+    "token_balance_owner": "CShtedj5vR5M7RkkimV2StW1HEjH6gTHMq7L6teQCLZZ",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 89081.40552574914,
+    "volume": 0
+  },
+  {
+    "address": "7SrJ77ko1pXiV7Bg2FZAGFVzzsJkRz8CfjTXDjborzQH",
+    "data_type": "holder_info",
+    "sol_balance": 355.666043261,
+    "token_balance_owner": "7z6iJpR3KaEhbr9KMPa5kBm49DuYu3C99ixbPZ3roUKp",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 87685.40354147574,
+    "volume": 821958
+  },
+  {
+    "address": "3fFP1nhHnbhgWNETMfcjoM2t3UZaA67onnoPBsLc3eyx",
+    "data_type": "holder_info",
+    "sol_balance": 350.842944137,
+    "token_balance_owner": "48uSAb4GuCpTEwM9bkLSYmeBZLUqQdMTkKth3rJMLemH",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 86496.31668344478,
+    "volume": 11538789
+  },
+  {
+    "address": "HvsT1VN1PURGTBqKVUcfqxcS9uefVADz7F6uoidox5aj",
+    "data_type": "holder_info",
+    "sol_balance": 350.00203928,
+    "token_balance_owner": "Bq2RWav5LtfnAs8refzrYjfroDGK9vjYULmTqJX7yXfJ",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 86289,
+    "volume": 0
+  },
+  {
+    "address": "B7PdrtoMUBquxeHbbKyu1iXdFfhTAZxxm2GVHrsdjwyz",
+    "data_type": "holder_info",
+    "sol_balance": 343.509050412,
+    "token_balance_owner": "7T59PmH7nK1J8XfK5eHvhb4EquLfC7xmgfZhftfXqXDU",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 84688.21852448328,
+    "volume": 8926486
+  },
+  {
+    "address": "CgZpMJaT1yQSXTMsfNjVm5GBXT9myTq8MvjLXGhCbR7T",
+    "data_type": "holder_info",
+    "sol_balance": 339.424021637,
+    "token_balance_owner": "8Sy2UpsqkMCP4x5G92ciEWC63vkuPjQmwpBhvY1dE3ij",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 83681.09553029477,
+    "volume": 0
+  },
+  {
+    "address": "7GYFshKN2p5sDcELf4b1kxrnmybxCHQAfA9Y7Vczv6nb",
+    "data_type": "holder_info",
+    "sol_balance": 315.00203928,
+    "token_balance_owner": "6DFrgCuqk7VjuTG3hjSqsxGw9WxhNGoYC1uEPHPBN7Ez",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 77660.09999999999,
+    "volume": 0
+  },
+  {
+    "address": "5hBppXPnmNLhHrUG6kgTtLz1fSscQLCddV3pSGj145TZ",
+    "data_type": "holder_info",
+    "sol_balance": 314.50203928,
+    "token_balance_owner": "8MNUv6Z5SE5g74zvgZeqqqdnbEXxpzUfdpPaEU9nS38m",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 77536.83,
+    "volume": 0
+  },
+  {
+    "address": "EH9Se44MT8fZkfqYwVcKGenAFkFC43wDuRgMBrKJJaaZ",
+    "data_type": "holder_info",
+    "sol_balance": 314.008475144,
+    "token_balance_owner": "37YgEXQFy3fW5WNU1DM74ZLJsrsNSHEpNjAPzRRbeJnt",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 77415.14669791056,
+    "volume": 505810
+  },
+  {
+    "address": "2ZHBLeHoaqYFeEeMQ9airLCKPzTqJYPJw2Fat9Doixdn",
+    "data_type": "holder_info",
+    "sol_balance": 311.732702766,
+    "token_balance_owner": "5HGV3iNtiymVEFj78b3BE678KAh2uNjx2Rn1j3n61hP1",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 76854.07777583845,
+    "volume": 0
+  },
+  {
+    "address": "5xS6c8ggvkeK5k5zxXgXzm4RjFW5fGp22EYSrBNmp3Bs",
+    "data_type": "holder_info",
+    "sol_balance": 308.408492917,
+    "token_balance_owner": "7AmbE6CEsMBtj5dW8w3VRivRuTjv1vAc9Qie9XaupXcf",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 76034.52707966599,
+    "volume": 0
+  },
+  {
+    "address": "zPVWkbD4CsEZrPDQQEmwiuBdZhRD4RBpJhU4RYcoEZv",
+    "data_type": "holder_info",
+    "sol_balance": 305.01870658,
+    "token_balance_owner": "Ez2jp3rwXUbaTx7XwiHGaWVgTPFdzJoSg8TopqbxfaJN",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 75198.809156142,
+    "volume": 5867155
+  },
+  {
+    "address": "HUygXdB7zKD8KNgt7bNnCz2hhuzpFDBkNBKU4UNWUr9g",
+    "data_type": "holder_info",
+    "sol_balance": 304.844789752,
+    "token_balance_owner": "4jhGVwxrZiJREcwDRYwGU2zFnPW92VkXcycETuopWugG",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 75155.93170112034,
+    "volume": 0
+  },
+  {
+    "address": "8GwNpxk4ATNovX1u7t4Kqe8CnWS5rteaZuLdN1By5FQ3",
+    "data_type": "holder_info",
+    "sol_balance": 303.44925949,
+    "token_balance_owner": "EhNFEXQtJPSFsHV2NVvz6Jie7cwJYXp6cAJevKUVbZ68",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 74811.8776705734,
+    "volume": 0
+  },
+  {
+    "address": "HZdpRFwha1ajfgDbRGoBqv8gPiK1VcJaw8PsaXU86ipw",
+    "data_type": "holder_info",
+    "sol_balance": 300.00203928,
+    "token_balance_owner": "BRkECFmsBbJTnejSZc8cedDNNKmPLLs4bhK9Zue9vNxQ",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 73962,
+    "volume": 0
+  },
+  {
+    "address": "281rRyaNrGgMXBB6Lu3pb2isZNLaw6Cpj3MSJPmFuVcz",
+    "data_type": "holder_info",
+    "sol_balance": 300.00203928,
+    "token_balance_owner": "5VanmqEgAC4bitxqdd4pyX1MVG3WXya3AhTwscNSBWcb",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 73962,
+    "volume": 0
+  },
+  {
+    "address": "A8UV7EfGLHGX55r8Wu5VXxr2GcNQYtBBqge9e5tdDArN",
+    "data_type": "holder_info",
+    "sol_balance": 297.990986869,
+    "token_balance_owner": "6ZUeThQ9FovzaS8HejAfGW2VqCXwRYPKKyUNsozpfrSx",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 73466.19513859207,
+    "volume": 0
+  },
+  {
+    "address": "4sD7k2PxF6L9UxrFRco2abYDUmuG5GVQKhHZqGCCxTjx",
+    "data_type": "holder_info",
+    "sol_balance": 291.782840332,
+    "token_balance_owner": "42Sa3WPhBQ6g2dENJjHsB6edZn5xMRDqsjQMPxpspK5M",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 71935.63819828008,
+    "volume": 0
+  },
+  {
+    "address": "38c4A1mzFvFbGBg6vMKmWCzRX4CLSb4dipRTAtUjdW6P",
+    "data_type": "holder_info",
+    "sol_balance": 279.735174671,
+    "token_balance_owner": "6j7rnNz8iLTvjjMYciryMGHoFnKkqaK2aV8Sjvmr4R2r",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 68965.40719929714,
+    "volume": 0
+  },
+  {
+    "address": "UbvuCs1wjfM5Un4Vy5LqhxApy5K4RHKrdCkvnM9R1TP",
+    "data_type": "holder_info",
+    "sol_balance": 273.032456306,
+    "token_balance_owner": "HNKjZAzgxEAvkFMBmgNMwhgBMtPsaLPmkY1n15cL7uAx",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 67312.91901359004,
+    "volume": 0
+  },
+  {
+    "address": "9dgXgngkvEUfUUYAARRKYdsmjUTzA2CH25mSasdKYZmu",
+    "data_type": "holder_info",
+    "sol_balance": 270.00203928,
+    "token_balance_owner": "Dih8LmWL1BMV81QiJXZTfiEpYeSxBfT6LD61C25iQ5TF",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 66565.8,
+    "volume": 0
+  },
+  {
+    "address": "5hg82bCqtW7dPDCAkTqYfqNn2k1hNzDgfP51pPpy5qH7",
+    "data_type": "holder_info",
+    "sol_balance": 266.00203928,
+    "token_balance_owner": "2AHkx2hM3c7Z9FZjYVA43HtuBwm5UH11jkjKbnTiZx6F",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 65579.64,
+    "volume": 0
+  },
+  {
+    "address": "ymyEhqctwgnMqjyjYUuM3TMdgVW1odsUP8QArAXpdBA",
+    "data_type": "holder_info",
+    "sol_balance": 265.561512443,
+    "token_balance_owner": "D8kHqoFtFehL3ZLXrphEWQfjTVufkmmnJzU2rtAMws9n",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 65471.03251360602,
+    "volume": 0
+  },
+  {
+    "address": "AdpuppUTwHtQJsJj7GbomawVaohYnWBU7FUDm1WJPsnZ",
+    "data_type": "holder_info",
+    "sol_balance": 262.995168651,
+    "token_balance_owner": "Rayp2Y2NZdTxHG4euZM4VPKTVGuyNe54fR11nbjj3MQ",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 64838.32611512634,
+    "volume": 0
+  },
+  {
+    "address": "7Fav8ktRc2irHyn7yGmnAooKPbEcPTR6MTxuxG8Po6ep",
+    "data_type": "holder_info",
+    "sol_balance": 261.048679501,
+    "token_balance_owner": "5nM1CTQwKXFZo5yJYC8J1pgj32JW6Fx8DpQAtPZ8aiLw",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 64358.43868008534,
+    "volume": 0
+  },
+  {
+    "address": "FVutb8afT6JZDd8JahkuCHpEaLkpgU1CNiZckyqMgrX6",
+    "data_type": "holder_info",
+    "sol_balance": 251.41003928,
+    "token_balance_owner": "2aPyiHfHkwDngqVpfa9pMJZqWqVcmP6oGo11pxP9GGhA",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 61982.128319999996,
+    "volume": 0
+  },
+  {
+    "address": "6VMXfeUc33rVAeZkTSF4AiiuzYXmRJwnbfA4jYBAJZRT",
+    "data_type": "holder_info",
+    "sol_balance": 248.841080791,
+    "token_balance_owner": "5REmXqXpb3pci2zMgENAhWE2Ke8uSze5EUnFfFGTgyoA",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 61348.77729412194,
+    "volume": 0
+  },
+  {
+    "address": "85XCjYL3wfBzSuzZgKAWgnBNP257qu7psHnAszgPVfzV",
+    "data_type": "holder_info",
+    "sol_balance": 248.840871485,
+    "token_balance_owner": "C3GUQuUmjzkXw9WWePEhRWSPKMRpW4dsm13D2DuuC7sL",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 61348.7256918207,
+    "volume": 0
+  },
+  {
+    "address": "3NksQwHrHtVp3hc4rNakHumMJE4GKnWqV6m8SjSZdxJz",
+    "data_type": "holder_info",
+    "sol_balance": 246.041677431,
+    "token_balance_owner": "3vy3u917tdHpxPutTG2DBwqnrvuXiF3EaUEmdmJLrm7j",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 60658.61238974753,
+    "volume": 463555
+  },
+  {
+    "address": "GHSZNbQzVCQgEaCDRGkVeSihPKWPYa6DG5qu5g39jbL9",
+    "data_type": "holder_info",
+    "sol_balance": 245.074491441,
+    "token_balance_owner": "3k56SyMYSnq2Je366DAi7ENXYtKzQ8eiBcxJiFbCcMht",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 60420.16235577294,
+    "volume": 0
+  },
+  {
+    "address": "GqTbm2b7vdNwsysKAeEqUusrySDAwdZtSj1vZ4xzxqie",
+    "data_type": "holder_info",
+    "sol_balance": 244.127154114,
+    "token_balance_owner": "YvWXoyyRpD5fPVZHZV6SY8NS1nuTFmyewxudD3mwuE3",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 60186.605811174355,
+    "volume": 0
+  },
+  {
+    "address": "GQmRxje5C4txPaAFVPGTdv8yLeR9XcmXCDAkS6XgDHta",
+    "data_type": "holder_info",
+    "sol_balance": 244.00203928,
+    "token_balance_owner": "BTRBHr1e6P9vGgPF14CY8ma5Y8X4baqiqgF1z5tji6Vu",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 60155.759999999995,
+    "volume": 19958
+  },
+  {
+    "address": "2FzAYzzs37izoWgqpxj5PY5u8tPVGSp2K4EYavPYNV3x",
+    "data_type": "holder_info",
+    "sol_balance": 240.459476623,
+    "token_balance_owner": "7tvZX157bj2pf32tdHE3dvH4P26bDvdb8bHSyMwXuRCm",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 59282.37660254322,
+    "volume": 0
+  },
+  {
+    "address": "C2ppmwj1zPb9R7n9HSnj2htGcGBRVtWk4c3puxKvStex",
+    "data_type": "holder_info",
+    "sol_balance": 240.428619069,
+    "token_balance_owner": "3pjWyeFUPa9Sppf15BAJYim4K2kVZThbLbYzThhLUBbG",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 59274.76898118005,
+    "volume": 0
+  },
+  {
+    "address": "3kmttLxjB6GnUzgoY3Kag4fqz94da8pFhddwuW4VyAMF",
+    "data_type": "holder_info",
+    "sol_balance": 240.020882714,
+    "token_balance_owner": "Hpg1XMKKg4KbCG6WoLnkcVm1gzP48eMmJSbeqQyxV8Xv",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 59174.24566021836,
+    "volume": 0
+  },
+  {
+    "address": "9CrwxvbkBsx8uA3pijDtYhTHbMMmX6kw7ebRHGvpJmNc",
+    "data_type": "holder_info",
+    "sol_balance": 238.264670931,
+    "token_balance_owner": "PeaZjyrgShDgNjd521FuCUDBZcHvE7fuhPQMHzHcsSA",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 58741.269207237536,
+    "volume": 0
+  },
+  {
+    "address": "ChArahiaNmEdvSQ87vmJZ7vs6t2rrFzgfg5xyKKuqCe2",
+    "data_type": "holder_info",
+    "sol_balance": 238.08769445,
+    "token_balance_owner": "ATJ29UU6vYE9h5bYLkJQzB6oPFiY6QAHrqmkfsu76mYn",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 58697.6374256118,
+    "volume": 0
+  },
+  {
+    "address": "8qiahsjcySjSGpvrxEwoNCrA7JWmiGHYsXBEu3tzYrix",
+    "data_type": "holder_info",
+    "sol_balance": 229.306126924,
+    "token_balance_owner": "EA72vFbjTLPbMJAxTe4f67fo3Vn5LKjWCQ1nQHkupZ3",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 56532.62976775176,
+    "volume": 0
+  },
+  {
+    "address": "DTv95EHxVTCFLxzNWptWdQQRV7HZTYt11tk6NC8Btf8j",
+    "data_type": "holder_info",
+    "sol_balance": 228.620012892,
+    "token_balance_owner": "EcUCacEUQWBc7WhUJj8EEBGDTnMysrHooVdPmPY7CJ85",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 56363.475214302474,
+    "volume": 0
+  },
+  {
+    "address": "2ACnANaaJHStsu37zx9UWMmyhnLRQXauKQHdYdQGVu1G",
+    "data_type": "holder_info",
+    "sol_balance": 228.568240086,
+    "token_balance_owner": "hnu5iBK8UoHb51UFsH1RYTUAYdrhjHvV5YMTf9T1CYN",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 56350.71114671124,
+    "volume": 15504587
+  },
+  {
+    "address": "Cj112nD16WBRo5HfP1LPp9ijox26umvpAVAPyvmM7M5J",
+    "data_type": "holder_info",
+    "sol_balance": 225.107053021,
+    "token_balance_owner": "7z3UkitcnMuNE1vqRKAw2XgypwtE9bXzX2gED1XJ7h8L",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 55497.39008770614,
+    "volume": 0
+  },
+  {
+    "address": "89cLVXYvjwyYRJs5kN4rsHUucKPzPBfET7R1Z5k9qqte",
+    "data_type": "holder_info",
+    "sol_balance": 225.00203928,
+    "token_balance_owner": "9iBHp1e9duHp9oKsUeiJUHRRi3v5G5hFenUnCbk8kntW",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 55471.5,
+    "volume": 0
+  },
+  {
+    "address": "5e5Ybh1RVQApc5cUF7DJWJ1UsKDV2VpobCib66zP6tkm",
+    "data_type": "holder_info",
+    "sol_balance": 221.945074375,
+    "token_balance_owner": "Fd48hVrg4QQznwi8eCJjCfNsbnSxb1ty5rJ5xvSMCXXr",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 54717.835872321295,
+    "volume": 0
+  },
+  {
+    "address": "EFZUp1GuE5cc6jx2EBgNhMyy4aF7BqTj6rxDqMNF5ELh",
+    "data_type": "holder_info",
+    "sol_balance": 220.650287124,
+    "token_balance_owner": "EV1vZgKKbF9n8sVV4zJ83tg1RriztRXWEf7qXTBcGW34",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 54398.61902345976,
+    "volume": 0
+  },
+  {
+    "address": "V2Xfqei3EieASdqaRZx89sRSk4hpsHLPWtpbN6yDzgL",
+    "data_type": "holder_info",
+    "sol_balance": 219.739685575,
+    "token_balance_owner": "BPiunxZKqnVjfyGwxEGDJ8fo2Anc9KZW2w81gpbPRJV3",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 54174.1193175693,
+    "volume": 10368201
+  },
+  {
+    "address": "DJMq5GUwkgco7AL3qPwKuFtiFmVzszqehPbAXmVbTL1h",
+    "data_type": "holder_info",
+    "sol_balance": 217.90382679,
+    "token_balance_owner": "E2riFpp3qAzNToDRmo6P1sAyFMMF2Wie3VQ89yciRJoz",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 53721.50669246886,
+    "volume": 0
+  },
+  {
+    "address": "AG8EjWhoVXABLo4XtkE4oDwkv4JuTJ8ACfrGQNPj7WMv",
+    "data_type": "holder_info",
+    "sol_balance": 216.037235589,
+    "token_balance_owner": "A34ta4fowA15obUj3PJtoAC8oLqcUDgXWD1GG2kcTbaE",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 53261.31729802086,
+    "volume": 2117
+  },
+  {
+    "address": "2uhJm1Sinw22fEAdQFtF1MHby5BG1znSAYoFZuBHyH39",
+    "data_type": "holder_info",
+    "sol_balance": 214.999039282,
+    "token_balance_owner": "Go9pDcHMAvjtJEjHtpo9DgaXX6ahBB6kkuuFvy5oXUij",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 53005.360380493075,
+    "volume": 0
+  },
+  {
+    "address": "2BtL3croUvjdPZGZNfqwpcCrUCSknZQeJCP2tBNDTA1D",
+    "data_type": "holder_info",
+    "sol_balance": 211.830510345,
+    "token_balance_owner": "9N9zhftih8W3DnktRLJeMNYkj44kD6DPCXSYqNaN2tZ6",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 52224.1912563651,
+    "volume": 0
+  },
+  {
+    "address": "6Wzuv7vLc6Vq8HJcHwwSCE9SKcdJiuoJmJm3EMFkWERN",
+    "data_type": "holder_info",
+    "sol_balance": 207.096137013,
+    "token_balance_owner": "9yj3zvLS3fDMqi1F8zhkaWfq8TZpZWHe6cz1Sgt7djXf",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 51056.97885114918,
+    "volume": 0
+  },
+  {
+    "address": "38r5srqT5paXJiJA3bzwNkAkDmUZ1daUpW1LzXmL8nXh",
+    "data_type": "holder_info",
+    "sol_balance": 202.719075537,
+    "token_balance_owner": "FKzEAKK4fvroJkRccdf2VN8R1xvU7oB4xSa5oU69YeyB",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49977.858118800774,
+    "volume": 0
+  },
+  {
+    "address": "9G4LTA5B7GZ33XgjvNky1q7bHZ6gESmk63LCYTm9N3GU",
+    "data_type": "holder_info",
+    "sol_balance": 201.595849501,
+    "token_balance_owner": "B8DCHQhZWmrQL6syPpJmerdDK9VhQv5buBkPuVV6pnup",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49700.93797188534,
+    "volume": 0
+  },
+  {
+    "address": "Ew3MAyYVwwZ8g1nTZgrDq4YsNWPmXNoeaq32317cj97F",
+    "data_type": "holder_info",
+    "sol_balance": 201.00203928,
+    "token_balance_owner": "En3i9177sgf6hxjXar8bPp8pmkysfXW6TW9GkWzeX8hm",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49554.54,
+    "volume": 0
+  },
+  {
+    "address": "G6cisfj2EePRVmftdneCaTRxAqxpB3r7cv3VqanQkbMz",
+    "data_type": "holder_info",
+    "sol_balance": 200.427280534,
+    "token_balance_owner": "AihKdKTrWMKDVJ9gDqsqV8ZKfCawbeNu9m4wbXhZ5PnF",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49412.83897876116,
+    "volume": 1050734
+  },
+  {
+    "address": "3pR7MuUa17G79xtoVZuHHPqh2wCUZEPKbCcrDUkD57Zt",
+    "data_type": "holder_info",
+    "sol_balance": 200.045756489,
+    "token_balance_owner": "dc5Lj8UMqurRTbgEmq7VuS8mHSbWfGfc8f4veQrzM1t",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49318.77804070686,
+    "volume": 0
+  },
+  {
+    "address": "A6qU6sX6BHvLth8UYQUK7e6QWBp5HnP1bJoewQmvNUyu",
+    "data_type": "holder_info",
+    "sol_balance": 200.013614628,
+    "token_balance_owner": "Data6X2sFNz6WFGJ5nXBCYMvyVvJUQh5oUJLkPd9pM58",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49310.85378629592,
+    "volume": 0
+  },
+  {
+    "address": "3v9N9HfEf2qHq8AEXyxowJ4T8PMGrKgfT15yit3E2L6E",
+    "data_type": "holder_info",
+    "sol_balance": 200.00303928,
+    "token_balance_owner": "6Syz9a3mrLUE2GsuMezryG7fu7r8wX4TrfXAs5n2JTi1",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49308.24654,
+    "volume": 28
+  },
+  {
+    "address": "3oJT66ngfbGMGh5Gf3UfLoyy9feWgiwBiqgEDw53ZQ9N",
+    "data_type": "holder_info",
+    "sol_balance": 200.00203928,
+    "token_balance_owner": "7uqNU9d8KPRFATwkxMySWwyQUEjxuuxNRCYoTSej8KYp",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49308,
+    "volume": 0
+  },
+  {
+    "address": "311Szsv2mnZe1L5JKh7bgbuvjQPyoN7Wo59xsMmtSQB3",
+    "data_type": "holder_info",
+    "sol_balance": 200.00203928,
+    "token_balance_owner": "dc5euoW1in5oV5FBv4hRe9v7MqpEQ4M3nrqGySJiMUe",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49308,
+    "volume": 0
+  },
+  {
+    "address": "2kKtXD14CqvHYqsbmL73mqZmf36KTRFoSVG58vwzGxqk",
+    "data_type": "holder_info",
+    "sol_balance": 200.00203928,
+    "token_balance_owner": "dc5feKMB2gkJem7VwQsRD6NtsKziRuNxKz9VHGqKcJL",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49308,
+    "volume": 0
+  },
+  {
+    "address": "GeFXN1QQYkebXmQykbisYurbn9mpv87k7egMCqbUeoio",
+    "data_type": "holder_info",
+    "sol_balance": 200.00203928,
+    "token_balance_owner": "dc5djqFbA9MmV8QJF4xJ3dAermM69AeQuXFMiBu6X2K",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49308,
+    "volume": 0
+  },
+  {
+    "address": "4Vte1HazofdhupuLYADtSqt384t4vdWyiE4bkcCnbRmD",
+    "data_type": "holder_info",
+    "sol_balance": 200.00203928,
+    "token_balance_owner": "dc5gbX3NBjUL4AerAafWsgVHvBue5GtWCD86YWQtJ5G",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49308,
+    "volume": 0
+  },
+  {
+    "address": "FvKpezumZVYBNew3V7u5r5BPGrCUREeJJYJDPsEj9oQx",
+    "data_type": "holder_info",
+    "sol_balance": 200.00213928,
+    "token_balance_owner": "EtPwKRaayuQk8gT76UiJZTY39v7bwVYbC2PUzHWBSyce",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49308,
+    "volume": 0
+  },
+  {
+    "address": "CJqXRENeqNEdVLaegUVrR8aqgRx8aMThXauUJnVRophL",
+    "data_type": "holder_info",
+    "sol_balance": 200.00203928,
+    "token_balance_owner": "dc5bDixc5FMfiX1gMbaPxQZY42pTVtcwa9mnXQDxnsp",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49308,
+    "volume": 0
+  },
+  {
+    "address": "4UXsKjQkNAacZsKzSMFKkUn4GG1Va3NrjcthuThEq9vU",
+    "data_type": "holder_info",
+    "sol_balance": 200.00203928,
+    "token_balance_owner": "dc5hGo9Y86fndTcsjngjDA7bazSPaRK31URFcf4uH8h",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49308,
+    "volume": 0
+  },
+  {
+    "address": "AMP8n618KzEqmT9CijK9XV88QHVvuhF1fR3z6G3eF4Vb",
+    "data_type": "holder_info",
+    "sol_balance": 199.696727754,
+    "token_balance_owner": "2TD5jiU62dn9XftkS1NCf6z5kKRt1fczkCFfbV7Gzc6t",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 49232.72849637996,
+    "volume": 0
+  },
+  {
+    "address": "CohUsqBNMPQjCAb2Kcdqg6BsiX2KmrNJTBmqJDyD3ufq",
+    "data_type": "holder_info",
+    "sol_balance": 197.324677898,
+    "token_balance_owner": "DJDNfeyJxQN3J4P326aqj48yUeQSBc4ZLfbjSNSceWb8",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 48647.92332488172,
+    "volume": 13412190
+  },
+  {
+    "address": "58zV1EEZKpDKPo26dPWTvWVMcKB5P3NR4rYFevn6QqG2",
+    "data_type": "holder_info",
+    "sol_balance": 195.291646747,
+    "token_balance_owner": "7BNaxx6KdUYrjACNQZ9He26NBFoFxujQMAfNLnArLGH5",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 48146.699824914176,
+    "volume": 8376692
+  },
+  {
+    "address": "EstMYfrbQK4kSMYcV5KK5vTmhB5EETwtv3ZdttuPGVAu",
+    "data_type": "holder_info",
+    "sol_balance": 190.50203928,
+    "token_balance_owner": "2ReAChpKuTY4FGbDgLLVpXA8MUiN14MVdQG5LBReY9Rq",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 46965.869999999995,
+    "volume": 0
+  },
+  {
+    "address": "J7XU5twW2WoFubszkbcYLjH4YdjjRxnMqtoFiUsqdrJB",
+    "data_type": "holder_info",
+    "sol_balance": 189.493656753,
+    "token_balance_owner": "59UiXWVn5kEbjDzYLzM6cwdtdKTRpiysWGcFmmZKKRUa",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 46717.263371793415,
+    "volume": 0
+  },
+  {
+    "address": "8mXRAyTKKJnQLfLxKssCVhckUK8depM1YKgP4qGB2Hhm",
+    "data_type": "holder_info",
+    "sol_balance": 188.158585469,
+    "token_balance_owner": "5aLY85pyxiuX3fd4RgM3Yc1e3MAL6b7UgaZz6MS3JUfG",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 46388.11465089606,
+    "volume": 2844917
+  },
+  {
+    "address": "2XdssFdwR82aF2LyfRGgoKXKKL9h3ya7zjVVF9j4bbbi",
+    "data_type": "holder_info",
+    "sol_balance": 187.018671932,
+    "token_balance_owner": "5rxXhKkGRxUMpHM5u6S6e4sfNXhd4qHpKj8DG2KAxyr5",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 46107.080614024075,
+    "volume": 0
+  },
+  {
+    "address": "45mV1VZgGcJns5Z9vX4wuN5mG43FvBymTypM5iMjua8E",
+    "data_type": "holder_info",
+    "sol_balance": 186.538430919,
+    "token_balance_owner": "7aCettVk4dSMa6aPVvMK8vqfcUycfhcJzC8rx7EcDRjw",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 45988.68199467906,
+    "volume": 0
+  },
+  {
+    "address": "so5HmDbpktMfWJ16V7uEoazaZyz1C6pjajMzd3kmJz3",
+    "data_type": "holder_info",
+    "sol_balance": 186.01504128,
+    "token_balance_owner": "ADr8ANvYAdHhL7CzXkfkdN7jJ21AWAJ4CC38onLckkej",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 45859.645513079995,
+    "volume": 0
+  },
+  {
+    "address": "DA9tkbUk7ZEBa3hPMHcwwMRsTwV8fzSN23xfyNtw7cp7",
+    "data_type": "holder_info",
+    "sol_balance": 185.425488771,
+    "token_balance_owner": "56S29mZ3wqvw8hATuUUFqKhGcSGYFASRRFNT38W8q7G3",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 45714.29699097113,
+    "volume": 44992704
+  },
+  {
+    "address": "7tJsPrZza6vELvTCWCCxJ8DCpc7cdMDxKCkTPrRTN5Su",
+    "data_type": "holder_info",
+    "sol_balance": 184.25636084,
+    "token_balance_owner": "AMCoyB1FfPhkbeWez44YtM13EFjbgsdwwBzRzsu3ZR9g",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 45426.0601908624,
+    "volume": 0
+  },
+  {
+    "address": "FoT3w4a5C9wFethAAd1NojYANZ3Jp1iKrYHyvKeTi6f7",
+    "data_type": "holder_info",
+    "sol_balance": 181.308207633,
+    "token_balance_owner": "CN4AG1iqQeLaZrQB2qsfJaAQgUBHeSXUK6UvC31n77UJ",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 44699.22274525554,
+    "volume": 10711017
+  },
+  {
+    "address": "A3miH8USdNtZmtXa9UzdkDhhxBs6zeWZXZNcGDGtVPAV",
+    "data_type": "holder_info",
+    "sol_balance": 180.959451471,
+    "token_balance_owner": "6jvYtr9G5WQnKs3cFsFtKmEfkbEnUXFhBKsmZad26QPV",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 44613.24040156914,
+    "volume": 9488052
+  },
+  {
+    "address": "ANpDeJy2xnnCqyYbZtsPHDRBxXuMqRQT9iRQ4FEEyjgX",
+    "data_type": "holder_info",
+    "sol_balance": 180.47256661,
+    "token_balance_owner": "so1Speb7M5S38jp7sRDooqARg3RVL94VVwmJSBnb6py",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 44493.203807938204,
+    "volume": 0
+  },
+  {
+    "address": "e7VWcefqQXdckT1h6M5tCUnDf3MP3ujnJ9ctrnQKd7E",
+    "data_type": "holder_info",
+    "sol_balance": 170.298757947,
+    "token_balance_owner": "a9pUpGDfRYGBEvpihbh3U5KWM6iao7xAwU5kYV29GWm",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 41984.953020162175,
+    "volume": 0
+  },
+  {
+    "address": "2mZWVJTgU3QrA3upbFNoDTD1bpcksJx3ffodD6LpN6Fz",
+    "data_type": "holder_info",
+    "sol_balance": 170.281533993,
+    "token_balance_owner": "FdHEV7sRsHJch6LmnEBtzLtU28zK3Dogb9tbhXLNyyGT",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 41980.70613321648,
+    "volume": 6590741
+  },
+  {
+    "address": "AYHSxrzZono1ej7AqtdkdWThV3WtnVSSyRRmsPeeBbFv",
+    "data_type": "holder_info",
+    "sol_balance": 165.874102098,
+    "token_balance_owner": "7jDVmS8HBdDNdtGXSxepjcktvG6FzbPurZvYUVgY7TG5",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 40894.098367149716,
+    "volume": 5845670
+  },
+  {
+    "address": "BGC66nFWBaTSob1vnY5Rja4MN7nSUA7B3WWF7J5JcKWt",
+    "data_type": "holder_info",
+    "sol_balance": 165.722815796,
+    "token_balance_owner": "7Z9Av4QVUiuBfpW3yrgVyVsUUQBmJDr3UufFrutUtW7L",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 40856.80024225464,
+    "volume": 5752095
+  },
+  {
+    "address": "9d6CegDBoWZd3v78s8hd6UENffxcx1AtwfNpTPFijb1T",
+    "data_type": "holder_info",
+    "sol_balance": 165.669006302,
+    "token_balance_owner": "BQqprJuQWT3D5jXCZ5H3Acq8Esk7c9mfvTi1QUfK5yKT",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 40843.53404960388,
+    "volume": 0
+  },
+  {
+    "address": "9q3yazmm4pacWG7sHDb7TLbB2dPiHYqLCt7YGUXWPHAt",
+    "data_type": "holder_info",
+    "sol_balance": 164.738179712,
+    "token_balance_owner": "DrnuP46qcf7b7utTY9Esm46SwkTFhYu4TrtRGTyvkE67",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 40614.048062105285,
+    "volume": 1663463
+  },
+  {
+    "address": "2seCpcVHX1apegadMNJUpMEEexm1JdUccSN8yjdm5qMG",
+    "data_type": "holder_info",
+    "sol_balance": 161.424586149,
+    "token_balance_owner": "JBVpuKD4cEVUjZ7conFwKZKzdpY92C1hzwCHYr99L54z",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 39797.11470508326,
+    "volume": 292051
+  },
+  {
+    "address": "BMJn9TcEn9SRGeFfqGBYkcH5BXBef1zpnDtMHEycEo8L",
+    "data_type": "holder_info",
+    "sol_balance": 161.340766486,
+    "token_balance_owner": "F7RV6aBWfniixoFkQNWmRwznDj2vae2XbusFfvMMjtbE",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 39776.449805367236,
+    "volume": 3517562
+  },
+  {
+    "address": "4oiV27sfxyvR3kNQQt7VePVxArhGfZYCEfL5gm8V6a8z",
+    "data_type": "holder_info",
+    "sol_balance": 157.939868626,
+    "token_balance_owner": "BASJhCN1o9G2THMeLtoPHLJixNch22jQ9CmTWiqEwev6",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 38937.99244696284,
+    "volume": 0
+  },
+  {
+    "address": "FdF3uFw1wPh3cCxhQVPXsvLjAJjRwfUMUHrZhXo9ZiLU",
+    "data_type": "holder_info",
+    "sol_balance": 156.912803766,
+    "token_balance_owner": "Ayppgq72FcwMnSoNMhC8a32kAiWFPBnTrzxvZwxMHb3U",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 38684.77987637844,
+    "volume": 0
+  },
+  {
+    "address": "CckN21jLawDFisqw7nNUr381HTrPSczYB6qAp6g9vK79",
+    "data_type": "holder_info",
+    "sol_balance": 155.959632202,
+    "token_balance_owner": "46hE3bEFanjeU8ZkD3Xwoz3Ut2WwSJezRfUUaHRX9hc5",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 38449.784958989876,
+    "volume": 0
+  },
+  {
+    "address": "BcGt4ddw6CoabM8UvbGzDyopXZuN7pVnDuPR5v3cTgmF",
+    "data_type": "holder_info",
+    "sol_balance": 155.00203928,
+    "token_balance_owner": "6Yh9zxU31jEDeMy7qSTn3wx2BezHuKffwuzFd8w58N2k",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 38213.7,
+    "volume": 0
+  },
+  {
+    "address": "9fkbampLdhjAP8CE1NH3qeHG9ovVy4mp3Xmv3DUV1uub",
+    "data_type": "holder_info",
+    "sol_balance": 152.50899257,
+    "token_balance_owner": "HxeYGffcDH2wsHTUm8NaSr9fnfLaQa2KPoGXDgis9XRc",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 37599.064264116605,
+    "volume": 0
+  },
+  {
+    "address": "Kb2EAWg97AqU1uMzDszkamYWpfrJuV1ycQ1dFY4osjz",
+    "data_type": "holder_info",
+    "sol_balance": 152.332357632,
+    "token_balance_owner": "5Qc2bBzgR6y52TaY4bZHhD4TGQit6EPAy82dZk7brMvi",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 37555.51668650208,
+    "volume": 58504
+  },
+  {
+    "address": "6EdpD7343TRJUewWaCUZ6PgxHrEZBj6Liu6o2fTbTcYq",
+    "data_type": "holder_info",
+    "sol_balance": 151.065936419,
+    "token_balance_owner": "4rAm1ZeRm6sbSrzJ3rTZDy7zy4hogoMyUbEdf4L4SsQ5",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 37243.29320064906,
+    "volume": 0
+  },
+  {
+    "address": "FPjdXoakc6nYCMivYuXfawugVmxdaz6AwDeRsTH91zXV",
+    "data_type": "holder_info",
+    "sol_balance": 150.50021958,
+    "token_balance_owner": "GanbudQj1YgPP8R6etnRhzR27vVFdcZ48z7aEPz7JYxN",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 37103.821371162,
+    "volume": 1
+  },
+  {
+    "address": "4RTCeiSCD7QTAyXixtwj8NQTN7KPJe1CF277SfhMiGF5",
+    "data_type": "holder_info",
+    "sol_balance": 150,
+    "token_balance_owner": "AssUy3YzxFqqjHvVS4U181ZgGfrkA1uF6qcznV2bLeCY",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 36980.4972359088,
+    "volume": 0
+  },
+  {
+    "address": "4ynYmiQ4hYT5PRAcm9RiKQSU3MoGpUgL12tcS31P9jqM",
+    "data_type": "holder_info",
+    "sol_balance": 148.921684638,
+    "token_balance_owner": "Co8TZ3oPFaDKPwmjWqdL32yV4de3L9ZhFCbCKUw2VUdt",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 36714.649366561316,
+    "volume": 0
+  },
+  {
+    "address": "6fHEDw1ZqiHrZeHdZgQHU29p8oJpkL5EjQUE8wH9bWAP",
+    "data_type": "holder_info",
+    "sol_balance": 148.789376737,
+    "token_balance_owner": "9RYJ3qr5eU5xAooqVcbmdeusjcViL5Nkiq7Gske3tiKq",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 36682.03017664878,
+    "volume": 0
+  },
+  {
+    "address": "7dzbhqo1TirMopiGFDC8YA62MJuU5PFjM7FgD1tkgpXv",
+    "data_type": "holder_info",
+    "sol_balance": 147.989667845,
+    "token_balance_owner": "DmB4xRNaVH2Y2FVBFsJKYvdPDKYjx2sgC8aQFRBF4gB2",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 36484.8699464151,
+    "volume": 32966729
+  },
+  {
+    "address": "8wzMK3TfWeUDjZnz8FvuuULzor3nTuca2txheKQcyb8A",
+    "data_type": "holder_info",
+    "sol_balance": 147.843844201,
+    "token_balance_owner": "3X2smU5A4LnESY4DdSW7VyWzP22RcqkH9fdigAGG2gQg",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 36448.91858522334,
+    "volume": 0
+  },
+  {
+    "address": "HmLb7UxhU2CcjUSz2BADXMc5kDAnqR6RjtqnJffvwRVA",
+    "data_type": "holder_info",
+    "sol_balance": 147.332871405,
+    "token_balance_owner": "CXPYf5cUZsRtpr1YhxwuLBvJfPip4RR3SkRNwkCTJwLL",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 36322.9433520975,
+    "volume": 0
+  },
+  {
+    "address": "HQaiu59iM6NfbL7hijW1TrmfMBdFw9zM2VC5tYCgLFpN",
+    "data_type": "holder_info",
+    "sol_balance": 146.344454559,
+    "token_balance_owner": "Hq3n2r7hZWUXCxUpqxzZiAh1Yt9dfvUyLj1sebXqFAe1",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 36079.25906288466,
+    "volume": 5054127
+  },
+  {
+    "address": "Ce4ymRyAKo712KbeQmhTW8q276Mu4JA8Unkp1C5VSsg1",
+    "data_type": "holder_info",
+    "sol_balance": 145.281184022,
+    "token_balance_owner": "sFRpBSro9JJzZbQmrjNqvfUMKypdTfJumont9decDuV",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 35817.12034469268,
+    "volume": 0
+  },
+  {
+    "address": "Ej6AJK31vVxvwM2y1T4tdVrncghHKQxKxeScKFgpavWn",
+    "data_type": "holder_info",
+    "sol_balance": 145.115563553,
+    "token_balance_owner": "FwmkKxB3Fj6efGJVLthToGEKsKasoBb7SVPXb8t9BinP",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 35776.28827426542,
+    "volume": 0
+  },
+  {
+    "address": "D2vLrLwggts6ew8gTaarpUdGpjDUJUmUbGocABNCXqUD",
+    "data_type": "holder_info",
+    "sol_balance": 144.40203928,
+    "token_balance_owner": "3dxTyuAdGFkAp4oGNER3eo73cLw6EbkoYhNdKV8Cbcsj",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 35600.376000000004,
+    "volume": 0
+  },
+  {
+    "address": "9uP2khrAMgS7nR9HZZXdFPJv1LQUS5SPnuMUA61EZMaW",
+    "data_type": "holder_info",
+    "sol_balance": 143.873706587,
+    "token_balance_owner": "CTRbbM6whSXqp26cFY9iP44Kf7dxFbPFi7csZTgyfK4r",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 35470.120857867776,
+    "volume": 545644
+  },
+  {
+    "address": "FTCy9tK7fsbBm12x6BN5Z5Bck9Yhjx7fcpCfKVd58xD8",
+    "data_type": "holder_info",
+    "sol_balance": 143.425836494,
+    "token_balance_owner": "AYpgimfVpD1wfn4kP4SyHdTTheVNTxFhYU6h3z63Ggsc",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 35359.70296513956,
+    "volume": 0
+  },
+  {
+    "address": "Eg3s97QdfJdGLmPqz3HpvgZjxaPQsZM5udKtxFzDAtaG",
+    "data_type": "holder_info",
+    "sol_balance": 142.743772093,
+    "token_balance_owner": "GZJhTLSHcmpEDzG5waLgpRTV4oRnywT2G5wQxqxujMo1",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 35191.546807717015,
+    "volume": 3941477
+  },
+  {
+    "address": "DAvGyXw4z6wCMVN8U9ktYHU63s1pg1EPchsocBkE9nrq",
+    "data_type": "holder_info",
+    "sol_balance": 140.872005798,
+    "token_balance_owner": "94SNzaYenw8QximymQEZZYyFqfu49x9DeUQQPdfCNWtx",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 34730.08154534772,
+    "volume": 1945376
+  },
+  {
+    "address": "GJ87rpqX1Y6b1Uvz1efG5TQJ9rUdBSNzJguHKqxjCXJc",
+    "data_type": "holder_info",
+    "sol_balance": 140.00203928,
+    "token_balance_owner": "HTyRa7fBvN639YHMGcZM2CJnLpEgLEH2Hkr5WBHzM76T",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 34515.6,
+    "volume": 0
+  },
+  {
+    "address": "4yyHzdSBDv6N2ZV6VFhY2rmLEUhVmeQLGRrKgiDeXRRC",
+    "data_type": "holder_info",
+    "sol_balance": 138.570083979,
+    "token_balance_owner": "Bv1v4pigUnEAs8H6MVwZCmKVswcE8Wu55W2vufPBpzFw",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 34162.565740091464,
+    "volume": 123118
+  },
+  {
+    "address": "96krR8agFPWG8yEvGAXpeRUKXYMu1hDuJVP4c1AxpTdE",
+    "data_type": "holder_info",
+    "sol_balance": 138.393482455,
+    "token_balance_owner": "2QRWginP6ffaXtstCgvLiE1mVLs7qrqpCXfkkwnYxktf",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 34119.0264003645,
+    "volume": 0
+  },
+  {
+    "address": "QCgKbP6gV5YQYJtoXgcBigwACJPrJy9nyE8SM9193Ff",
+    "data_type": "holder_info",
+    "sol_balance": 138.365423138,
+    "token_balance_owner": "5stHKj8qN6xdnqSP5Q4GL83pCYct8pPWBZhVS9DR1a1z",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 34112.108656351316,
+    "volume": 0
+  },
+  {
+    "address": "2HhDz5TQueStYBdfpqxN9n4F2fV7zN6GazEHpJhPPkPZ",
+    "data_type": "holder_info",
+    "sol_balance": 137.935872225,
+    "token_balance_owner": "4LWr3rN2Mdpn9UhDsppSt3QQzNM6NvkdGGHQjEi1fx5p",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 34006.2071742603,
+    "volume": 535
+  },
+  {
+    "address": "4RafakGWsbrDqaYAvQumoTPVAzjRTRRyTCRiFCKb8QUu",
+    "data_type": "holder_info",
+    "sol_balance": 135.736107305,
+    "token_balance_owner": "2NuAgVk3hcb7s4YvP4GjV5fD8eDvZQv5wuN6ZC8igRfV",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 33463.8771308835,
+    "volume": 40308222
+  },
+  {
+    "address": "5HWxuGBKgaXsmd2j1attGHu4CBJvdYESxWjbX4z4GNgi",
+    "data_type": "holder_info",
+    "sol_balance": 135.733213093,
+    "token_balance_owner": "8kbgT495ViS3KSHUGDZcPbZ2JdsNdkax71P7n4Jch6xL",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 33463.16359185702,
+    "volume": 0
+  },
+  {
+    "address": "AB5THbhk6typM4dyj355FbDfDAdQMyAmCLsGx2wdPE6s",
+    "data_type": "holder_info",
+    "sol_balance": 135.627816622,
+    "token_balance_owner": "AipG9mcMTYCQTpCHMYhyFNenj2HXEYDh8Sw7pGmNzSAE",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 33437.179145896676,
+    "volume": 402592
+  },
+  {
+    "address": "CBMGykCNTyZBApSGvwbJU9eMCSxjfkL3M6VTbVZNcFRy",
+    "data_type": "holder_info",
+    "sol_balance": 135.254466556,
+    "token_balance_owner": "2U6siJhGaagZaFyk2P72QcYV2cNxjFWBZ95TvXEz3x5A",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 33345.13342062504,
+    "volume": 0
+  },
+  {
+    "address": "63VYUU5ysybkNyHcymzcgPn6U7QY2qS578KYDkkKNGjK",
+    "data_type": "holder_info",
+    "sol_balance": 133.16203928,
+    "token_balance_owner": "E1fiT5D43G6kPWTr9UCoAuoNBihA1n6GqSnaw2XfEyVq",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 32829.2664,
+    "volume": 0
+  },
+  {
+    "address": "3TpJSHwfek9cswnMXQbGauEy82JrBXy5FrDiAYH4JVok",
+    "data_type": "holder_info",
+    "sol_balance": 133.010802338,
+    "token_balance_owner": "FaJjFBqNPpFpEmpNG9er4D2a11YJA2WkNPwgdyTXKLJo",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 32791.98044431932,
+    "volume": 3195
+  },
+  {
+    "address": "6aU6hVz7Dy5ytn9kF8whXB1CCAjVah8Dfu7JWcjmi6Y4",
+    "data_type": "holder_info",
+    "sol_balance": 132.677928926,
+    "token_balance_owner": "F1nat7n5th5Rxcj1kUCoojpcvrgkZ6NcFnFksEvPnU4b",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 32709.91383332484,
+    "volume": 0
+  },
+  {
+    "address": "GSeFcVguyeCjsFVsWyy8Rj21UqKoyPfdWFohxnZRc5rJ",
+    "data_type": "holder_info",
+    "sol_balance": 132.049337146,
+    "token_balance_owner": "7tK2Q7on9g4C3fHJhLr2HgctDy49xYa4Bn9ApAHZJnmc",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 32554.94081588364,
+    "volume": 643083
+  },
+  {
+    "address": "3Ny5N2rHvRH5j9HHMBAgBjx27va1NR6KJ2Gt3SDmVfqk",
+    "data_type": "holder_info",
+    "sol_balance": 131.832853407,
+    "token_balance_owner": "HPxKdh8UJdCMkbaanQ2UE86MAX49ntvaygPzVvBpi4Sp",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 32501.56891487058,
+    "volume": 0
+  },
+  {
+    "address": "CLy2mhkRsXovheksB5Ff8ebxPreAGyXPkxS9bbv9BNd",
+    "data_type": "holder_info",
+    "sol_balance": 130.965812532,
+    "token_balance_owner": "GjRAy3uZeuu1XNxzFR8uoEhTWehoBztmoKVDnmk5V5Tf",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 32287.80865754808,
+    "volume": 0
+  },
+  {
+    "address": "GixZSABmVqzBgoZsLwT4KebBTNj1dQizRpczTobJj157",
+    "data_type": "holder_info",
+    "sol_balance": 130.948900834,
+    "token_balance_owner": "EhCShf6obBJvyqEnoyWQScpt8MwAVy6WKgLcEF2VNKBG",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 32283.639247523162,
+    "volume": 0
+  },
+  {
+    "address": "2nMvy9q77zKKKknisWbVBHYvSMVHs759uCXUR1aEdvkD",
+    "data_type": "holder_info",
+    "sol_balance": 130.053878697,
+    "token_balance_owner": "GENGaRWBoyiD43UjrV4iFCS2WdN3HMZU6Gsajffy2iQH",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 32062.98048986718,
+    "volume": 0
+  },
+  {
+    "address": "Gyv7d6ncEZhZXoGnzxLf9x3pQH1DEa2UYGTThA23B2Sw",
+    "data_type": "holder_info",
+    "sol_balance": 130.00203928,
+    "token_balance_owner": "Ft1jJFHrqzjCvvjj3TJe7ne92ZZqLC6e3QxSaWtKznoj",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 32050.2,
+    "volume": 0
+  },
+  {
+    "address": "GRqNfHtnML44Xu6hEkwMy96W9PCXTv43ouLYiiPJSZya",
+    "data_type": "holder_info",
+    "sol_balance": 129.979831874,
+    "token_balance_owner": "GJkiE2kmd34eYUuzKAi1KjvadjxCA5zeTBxZ6N7vrW9Y",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 32044.72498612476,
+    "volume": 0
+  },
+  {
+    "address": "HGezehSF5bE53rxeJXAkN4DKdTgBKxDC3gERJzUWSqhd",
+    "data_type": "holder_info",
+    "sol_balance": 129.206666019,
+    "token_balance_owner": "C47RKUKx9GoTb2qUdRGGhDyyX8v8T4xE3HAii49k8HU1",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 31854.106210833055,
+    "volume": 0
+  },
+  {
+    "address": "ERG9Fh22C91BJcT6d681Mpxq9XzL5bxnvHE9o1rCkvYy",
+    "data_type": "holder_info",
+    "sol_balance": 127.929826687,
+    "token_balance_owner": "5cwb6Zj2HEK1RTthxQ5J9UNeJJbHzRAguik13ckKTFBg",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 31539.316707321777,
+    "volume": 14798
+  },
+  {
+    "address": "9j16sPsAjdcvgTBii8KdFXaeuDFoDAYgh2UtLkqfdB1T",
+    "data_type": "holder_info",
+    "sol_balance": 126.743757091,
+    "token_balance_owner": "9AHhmgoxnFq9UP4LDGPRv9z3oxiL3G2E4Dys1LyYNa1c",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 31246.903109123938,
+    "volume": 0
+  },
+  {
+    "address": "FXGcBFq1oykbunZXdMUWKd23bEEAWfD4ofb471MKHbwP",
+    "data_type": "holder_info",
+    "sol_balance": 125.747708891,
+    "token_balance_owner": "B3ip86Ev6ghFR2FUESgjZaDm1ZZ1ZLYhYGNAomgmtEoi",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 31001.33738589594,
+    "volume": 2402831
+  },
+  {
+    "address": "H6dx1uZtwoXDReAKUSJ1yPLVaY8cBsfjKxj65RD8fhrz",
+    "data_type": "holder_info",
+    "sol_balance": 125.70603928,
+    "token_balance_owner": "3yokta28roKT8P5YMnBm5CfXPxGqS67Ui4R6CD1oKPpa",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 30991.064159999998,
+    "volume": 0
+  },
+  {
+    "address": "GxcW2tfTqeM6Qd3AAZTPSYFLt7JUBoZKfKZsddn3y1L4",
+    "data_type": "holder_info",
+    "sol_balance": 124.151807437,
+    "token_balance_owner": "Eimdz3wcUdbQdcfHyjbwj58ateAfqDZXbDvqfahEyZM1",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 30607.883841426778,
+    "volume": 0
+  },
+  {
+    "address": "28boGXZCGbHfpzVAvruREec5hK6hJZxr5nbVSTxFQYm2",
+    "data_type": "holder_info",
+    "sol_balance": 122.643843342,
+    "token_balance_owner": "GdCTKgEW8QhQAtVsjsc9Jvm6iVzxZ7sEXrqkg2pRaD9z",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 30236.11037344548,
+    "volume": 0
+  },
+  {
+    "address": "3QS9ThDJFcybabzakQ2HXa6bTznHSZ7S1npQC75xxWv9",
+    "data_type": "holder_info",
+    "sol_balance": 121.94831872,
+    "token_balance_owner": "SavR1E3cvckV6T2JEEM2T8bqeS8BzeiJ9NoTUUNaQwV",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 30064.6357331376,
+    "volume": 0
+  },
+  {
+    "address": "8TTCzJDuoDXfxPyMXjdEemG2qAn9djCezTRFoqhZ2FKE",
+    "data_type": "holder_info",
+    "sol_balance": 121.820135941,
+    "token_balance_owner": "7HpD92M5LW7shSsaVYbRbCnCH2xPvvR4p5KeqkgkMSFM",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 30033.03355080294,
+    "volume": 0
+  },
+  {
+    "address": "H8wEHsr5w6NPZYDFVoRKW4X7yDaJp1TDhAQX4QVgmqbs",
+    "data_type": "holder_info",
+    "sol_balance": 120.965337524,
+    "token_balance_owner": "4G1kEjW3DC8AWVvf2CRTC1eAHx34iEWpiKrAJczNe679",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 29822.29154907576,
+    "volume": 0
+  },
+  {
+    "address": "EhAyfMpY6NhHz5WRDQHsgdZKLp5fYJ9fAhoVzWA1zsd9",
+    "data_type": "holder_info",
+    "sol_balance": 120.221209108,
+    "token_balance_owner": "HZQDgrSoRFdVru9Scj1jyRYSJExKUdK57k4Q28hGTome",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 29638.83412939512,
+    "volume": 0
+  },
+  {
+    "address": "DHANAV6RFeuDmXetXDNfJ7EZJCegyjn8EWP3vgvfRtpV",
+    "data_type": "holder_info",
+    "sol_balance": 120.14776933,
+    "token_balance_owner": "2Ytyd23PN1uDTdGBAdXFpJFHPDDdvmvqZ3zg32K5LbM8",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 29620.728286527,
+    "volume": 80328
+  },
+  {
+    "address": "47cwLhiH91RyZzcjgz3k56G8WA7GJ48Pzxy8nuyd9aic",
+    "data_type": "holder_info",
+    "sol_balance": 119.753275644,
+    "token_balance_owner": "6GPD6t1vRZu2y3hM5zFPuNGWsAkx3ZxCMewJE6FvhPd3",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 29523.469813180556,
+    "volume": 0
+  },
+  {
+    "address": "4CKFnYB9FUd4bgFxUbKyxanVFXxXTiezXQjZHsUEbibz",
+    "data_type": "holder_info",
+    "sol_balance": 119.68203928,
+    "token_balance_owner": "GE2YrA1iyuV159z1uG6nHG7aqxxUVnSEZchZT1D7MK2J",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 29505.9072,
+    "volume": 0
+  },
+  {
+    "address": "ZE7HjJ7eXMBz5kuMafMZWn7J8TAQyC2LoCTxwpqiPwD",
+    "data_type": "holder_info",
+    "sol_balance": 116.410433936,
+    "token_balance_owner": "8aJB9T5rh19Y8WVrMh8nG5fQ6oxMTab8qDXJdxTFM8Z2",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 28699.32561849024,
+    "volume": 0
+  },
+  {
+    "address": "DU1NH3DedMS7wEvrvuhtDAbenau9xApNTD5CAMgPkRrK",
+    "data_type": "holder_info",
+    "sol_balance": 116.393006045,
+    "token_balance_owner": "4hWqMVC93TSKJ2yutaHBXDc95Y9Ep6Mt9pc5Sc3pcmWW",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 28695.0289462431,
+    "volume": 0
+  },
+  {
+    "address": "BBhAgBUe14TAZXtXkaC8ZFy8ihQvdQVr3PuDUn7EhgEd",
+    "data_type": "holder_info",
+    "sol_balance": 116.27403928,
+    "token_balance_owner": "DWJp2ibXnHE2fdtRBeBp1hSQttdkzS8mr7DB3VxjaXJs",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 28665.69888,
+    "volume": 0
+  },
+  {
+    "address": "Hnw38BDrcXrmsCcZq9i9TbimNufddcciNY9mNDEMUMnM",
+    "data_type": "holder_info",
+    "sol_balance": 115.576970416,
+    "token_balance_owner": "C2yivv9x8XKKCb9Ev2eZEJ47ZfLmpit3woBiZvNi9dTj",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 28493.84352226944,
+    "volume": 0
+  },
+  {
+    "address": "GNPeXJkDyppRFnLxb4GfzT363Ch4PtEMdtjiunUvnLWi",
+    "data_type": "holder_info",
+    "sol_balance": 115.564166304,
+    "token_balance_owner": "FgXqNgLztjyXJHyxewGQp9VCKJqUzrjK1Um9GSnXWWhq",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 28490.68679649696,
+    "volume": 0
+  },
+  {
+    "address": "647BbXXkVdNCawGDTNEqK1xcz9wNqS273rYfa2Wh8mUk",
+    "data_type": "holder_info",
+    "sol_balance": 114.951215642,
+    "token_balance_owner": "CabqLcGQmzHWmb65Sh67B86feSTMwozhqe4fxrtBRaZy",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 28339.56994028748,
+    "volume": 0
+  },
+  {
+    "address": "56yW8LfaYaLcoRWuAhuUQbGTwqz1sTdzrTvTQUzRfmM4",
+    "data_type": "holder_info",
+    "sol_balance": 114.117152454,
+    "token_balance_owner": "EjJ1raaqUJDRNpDBGDBtbx5JVeJwB8HpauH7YvTKiHVz",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 28133.94000191796,
+    "volume": 0
+  },
+  {
+    "address": "BbCzpMccQi1Erb94HTPPAEERPYzvV85FEQDUvZRhPvxb",
+    "data_type": "holder_info",
+    "sol_balance": 113.186823735,
+    "token_balance_owner": "GEZwrJorE3CCkwSff49KpvdcawQRTjdYkyTfQy4byGUT",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 27904.5767595357,
+    "volume": 0
+  },
+  {
+    "address": "DoaJWHYNt1PhJi94evzZvqrCnRHnjMosG1T27QzPfaSn",
+    "data_type": "holder_info",
+    "sol_balance": 113.060624121,
+    "token_balance_owner": "8shhBrQN7kjJgjsVVgcXdneqiyKp9ehLpE7gugUfUCJX",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 27873.46350670014,
+    "volume": 7017576
+  },
+  {
+    "address": "JEBNKUdYWntV9QyWkCHxaDfbeEJhotqz9FmSCfqTgGaG",
+    "data_type": "holder_info",
+    "sol_balance": 112.7769071,
+    "token_balance_owner": "6qn8auo8dWAjyu7eB5kZNjBb9LEgW9ozYgqZseKsMG9R",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 27803.5159123428,
+    "volume": 0
+  },
+  {
+    "address": "342Bta3Kjk3yWz5pKANHBZ6KoJRCbKT2AcuCMUDafgRw",
+    "data_type": "holder_info",
+    "sol_balance": 112.263614075,
+    "token_balance_owner": "DRAf1MPFGrvg7QUt3x4YNU61PL3erMvu8EhrzhhDpbbA",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 27676.9686499593,
+    "volume": 0
+  },
+  {
+    "address": "49oF1rFJL6KXytrMRXhFFmbHntmdMfMSkTeFZwzDZjSL",
+    "data_type": "holder_info",
+    "sol_balance": 111.992987488,
+    "token_balance_owner": "J325VubXZ3ib6meZndRTDRxn5r1UujauJyy3dSunY5oE",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 27610.24837120032,
+    "volume": 0
+  },
+  {
+    "address": "kWgsH4Tm6XQF9AyLWcMvGkam42KDKEULpDCzeLedU9w",
+    "data_type": "holder_info",
+    "sol_balance": 111.557817007,
+    "token_balance_owner": "CVcSNFjqWaa5f1DAcVTgESE4hvU23JAFM7Mpxa39fbXz",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 27502.96144081458,
+    "volume": 36158
+  },
+  {
+    "address": "EofTP4AxD7d8nxT5EkZT93VaYAbn3uDyZmATdtkMzt2p",
+    "data_type": "holder_info",
+    "sol_balance": 110.378362757,
+    "token_balance_owner": "E27SNdPhcY5jSVgDCiyW5DwztRCLMfLMD9478T2yUxcd",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 27212.178790019578,
+    "volume": 1400390
+  },
+  {
+    "address": "EbB4wzbEkJNNFERdcdoywpv2rvTtK2UaFdphjqbD6Hv3",
+    "data_type": "holder_info",
+    "sol_balance": 110.002778052,
+    "token_balance_owner": "84HhXVQ27wwC4xnpjhHBcyDiJoTdVcSAS6DS5cpgvP63",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 27119.58213684888,
+    "volume": 0
+  },
+  {
+    "address": "25qsV79UKiZw5wSQcBTjxSz5nf8sBGtLKdjzK7eV8x2W",
+    "data_type": "holder_info",
+    "sol_balance": 110.00203928,
+    "token_balance_owner": "3KV5jnAjaqLaKFbA5dK3MDHEQ2FFvaSLhEX75q9oZX8A",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 27119.399999999998,
+    "volume": 0
+  },
+  {
+    "address": "97FAchsd7sr1gkpL9d5Cfgg9aL758hXU6KaGh7M3nYFE",
+    "data_type": "holder_info",
+    "sol_balance": 109.919874402,
+    "token_balance_owner": "E8EoBMpgBbmfAcx4ZnGFNDm7Gd99qo6iimSNsw9i1oVD",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 27099.14307097788,
+    "volume": 0
+  },
+  {
+    "address": "58TitD6VUuP4kqJSQJLUgELdHccg3eKzKPtHQmSmYz4U",
+    "data_type": "holder_info",
+    "sol_balance": 109.623290382,
+    "token_balance_owner": "4xcnTxU3vPFrkjFQv8pGg6VSiMn4wRc3P4ERmJfHiMzd",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 27026.02324668708,
+    "volume": 0
+  },
+  {
+    "address": "2t8qW7QL9HEKEHxTNWhKmrFfmVMANFuCpGix7LNFgG3m",
+    "data_type": "holder_info",
+    "sol_balance": 107.862454261,
+    "token_balance_owner": "H8KTT1e3F4u9Mw4cn4byAS4Uv1LZJv7QRDr46UPKAMe7",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 26591.906462875737,
+    "volume": 4102471
+  },
+  {
+    "address": "7pxZjQpgp29CWy8RkvXmovrwAq5mPqnfe2GQfemas2xT",
+    "data_type": "holder_info",
+    "sol_balance": 107.80203928,
+    "token_balance_owner": "EEoyfa2vBWAxsLnyQ2aTjyW7L1cAM7Gt8yzBj6KCrsbw",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 26577.012,
+    "volume": 0
+  },
+  {
+    "address": "CLZcmNV43dAsbC8ykfgLYJMM2t8bZKpr7feXmdDd4NaH",
+    "data_type": "holder_info",
+    "sol_balance": 107.772936684,
+    "token_balance_owner": "A32qzkjjiWeqKSKLEv3UpDXaTeuVRHG436jGpHi1uYs2",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 26569.83704598216,
+    "volume": 889845
+  },
+  {
+    "address": "4UqV4RfKXCg74ADSXQDLkcryoMqcVhwkFVJEW3Qd5fxQ",
+    "data_type": "holder_info",
+    "sol_balance": 107.520446313,
+    "token_balance_owner": "9jodek2ZxG9HpWMoiZjZ8Up2z3nz2gkrhW4gJAskP3TL",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 26507.58806991582,
+    "volume": 0
+  },
+  {
+    "address": "Eg7WxKpsgWdNbjHt1fgficv8JuY3G4eREaRErKgvp8oQ",
+    "data_type": "holder_info",
+    "sol_balance": 107.133071526,
+    "token_balance_owner": "5ibqXEBbaNNqq4V6iw1154wDCYAGuzrmi9vzCFHtvsFJ",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 26412.08468992884,
+    "volume": 0
+  },
+  {
+    "address": "B1vgiTvvKADKYxmtiUcNVeRLYQjT2q3N5BuX86DC2JfM",
+    "data_type": "holder_info",
+    "sol_balance": 106.886232405,
+    "token_balance_owner": "ERFEknpxxW3pPUXe9PRTxrTgPD96BTUnQVhyntWQzPFu",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 26351.228973037498,
+    "volume": 0
+  },
+  {
+    "address": "DbbYnubq13gPJKSxdMJ6zV8NrQTtDKyDQgi8jKecdytb",
+    "data_type": "holder_info",
+    "sol_balance": 103.526172321,
+    "token_balance_owner": "FG1RbfMPTZrEiisVFSSHQWF4BszuXc9wthWEXMsbCun6",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 25522.839759928138,
+    "volume": 0
+  },
+  {
+    "address": "6dNp9BKDNf3QUekDhMrA9MnTk2USnQtWqErXt1sKSagV",
+    "data_type": "holder_info",
+    "sol_balance": 103.431972026,
+    "token_balance_owner": "AaseN15QKRGA9vwzm5CitBCbF3Xh9GtnsbWbMJg3YCmr",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 25499.61561919884,
+    "volume": 0
+  },
+  {
+    "address": "HHxPywPKYUpnxcAqsUsfdmEV7UYQR6HevomfXfoVzhxE",
+    "data_type": "holder_info",
+    "sol_balance": 103.31098805,
+    "token_balance_owner": "7Rwj7LM8NLL4rycoxUP7VXazu7MQrKBFS2gapU6XaU8A",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 25469.7882297558,
+    "volume": 38847
+  },
+  {
+    "address": "JAQsLjxVwogmtwrY7YZNHDnhqKDqpFXvGnvKgPjvuK18",
+    "data_type": "holder_info",
+    "sol_balance": 102.241919446,
+    "token_balance_owner": "AqYHkszt2w3HNDGupxX9hB19xqXFXnTYXU2h6qfiU7Yd",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 25206.22005612564,
+    "volume": 0
+  },
+  {
+    "address": "HB51DPbXWwjfoypcEFWpqr55y6qrrdyUZwatmo23rbPJ",
+    "data_type": "holder_info",
+    "sol_balance": 101.367756452,
+    "token_balance_owner": "6b4aypBhH337qSzzkbeoHWzTLt4DjG2aG8GkrrTQJfQA",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24990.70391158488,
+    "volume": 0
+  },
+  {
+    "address": "9GGQjMqqkjPTVsyPrfrVEycGr95j4rbjdtPgHBX5vzPP",
+    "data_type": "holder_info",
+    "sol_balance": 101.1291684,
+    "token_balance_owner": "4K3a2ucXiGvuMJMPNneRDyzmNp6i4RdzXJmBdWwGwPEh",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24931.882413244803,
+    "volume": 27983
+  },
+  {
+    "address": "8PqaXY46WM9WggKgx7kASpvz4Hw9RRFFQjCbmdd4PLou",
+    "data_type": "holder_info",
+    "sol_balance": 101.00203928,
+    "token_balance_owner": "starveSEYbkwMyPfU4xTy83R3yi6aApuHw729HE19ed",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24900.54,
+    "volume": 61619
+  },
+  {
+    "address": "DvS1bxda3XkiTFH7kNVUhAzNTGFVHsm92j9CgeKxPUxs",
+    "data_type": "holder_info",
+    "sol_balance": 101.00203928,
+    "token_balance_owner": "8zd77GpPzUtLiQs2dsgzp5d8s43ciRYNLf351ZHh4BCN",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24900.54,
+    "volume": 219844
+  },
+  {
+    "address": "7QZEherd8gVE2HsbCJRw5T6xBA1GTr1dx7AayVKRvmTG",
+    "data_type": "holder_info",
+    "sol_balance": 101.00203928,
+    "token_balance_owner": "FEpURmWh74uPi1TdoTk1vvVjfCaumZ6LjWQkiBYGfLwY",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24900.54,
+    "volume": 0
+  },
+  {
+    "address": "7qj7p5Htf1tvccfzYPJng52Jis2fcoy2qE4xuxipfiTy",
+    "data_type": "holder_info",
+    "sol_balance": 100.857018367,
+    "token_balance_owner": "JBJ6wqredw2rfKzxcRUHCLWqkTNjCjxyX4267gWrZAd6",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24864.78654410898,
+    "volume": 0
+  },
+  {
+    "address": "JDP35sHQaTC3vKJt3cK1u1QEULAJEsrMCXHhZwyJs8Dv",
+    "data_type": "holder_info",
+    "sol_balance": 100.511730489,
+    "token_balance_owner": "DuiCpzMRWyvraAGKYur5xdwZhghRHjeFuqK1Ms9h86X9",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24779.65927066686,
+    "volume": 0
+  },
+  {
+    "address": "D511265c88yZVxqbEzMDSAsY7k3MH3g6GtRq8De3tVTT",
+    "data_type": "holder_info",
+    "sol_balance": 100.391322665,
+    "token_balance_owner": "crow11ugh4TFoCAGLAV1kr2rY6WC1hJorUCPa6fU42J",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24749.9739257379,
+    "volume": 0
+  },
+  {
+    "address": "EZ8jkSogSkPhvpLbgVJnLVXiMSLWbpKT48jbvAWMqe8N",
+    "data_type": "holder_info",
+    "sol_balance": 100.285060254,
+    "token_balance_owner": "Eynr8vNrrhnUw5BCXUx9uxPhcrzS9QpbewoXrpjoz5H",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24723.775990929957,
+    "volume": 0
+  },
+  {
+    "address": "BKgtBzahGapNLGYwhHP8S6u8BtjBjpnsTSXraiNAssv2",
+    "data_type": "holder_info",
+    "sol_balance": 100.215235849,
+    "token_balance_owner": "9Ymk9iTHi5F9ERJhHzKxuvDgCxCkqAS8xug7E8bRqoFs",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24706.56148187472,
+    "volume": 6019
+  },
+  {
+    "address": "BscH4m5RvsMrooFanQGmP1XFv3EV6aeWr2jQafZekva9",
+    "data_type": "holder_info",
+    "sol_balance": 100.10203928,
+    "token_balance_owner": "5zhm9neNE3Cash1wfg4LiUGp8TDG9kKj6viPuyGHZ6fA",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24678.654,
+    "volume": 107310
+  },
+  {
+    "address": "HZ8nvPj8PzkwbKUyqLXtyCywePReH25vdJ6qTCywrLXz",
+    "data_type": "holder_info",
+    "sol_balance": 100.00203928,
+    "token_balance_owner": "EqVohXyDAqyU9B4J2Se3na2i1KJFy1fYnr9DE7Qm8XwQ",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24654,
+    "volume": 0
+  },
+  {
+    "address": "HTn1ncDQEiDijXpnKnqixkaf7up7dku4KBemUyCAdvTW",
+    "data_type": "holder_info",
+    "sol_balance": 100.00203928,
+    "token_balance_owner": "F1rstTxedwntd4pbmMHy2KjsV5AdAw89toqNtdgtX47A",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24654,
+    "volume": 40351
+  },
+  {
+    "address": "9wLeSgiJPTia7rpHCbCphkRjVPKaQ5gjQTgT4sLd2CRt",
+    "data_type": "holder_info",
+    "sol_balance": 100.00203928,
+    "token_balance_owner": "2bmpdoLxHJBokwMx6pyc4tzyEKmoPFHpgv9rGoonoPED",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24654,
+    "volume": 0
+  },
+  {
+    "address": "6362VGRr9NBebY53G4sNYbNDbX5WjY147yeT8RMrLbs",
+    "data_type": "holder_info",
+    "sol_balance": 100,
+    "token_balance_owner": "83U6TmzBosmucRhiST4DuPPX3AC6faDhX4xJ9YfKjU4X",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24653.4972359088,
+    "volume": 0
+  },
+  {
+    "address": "27hs7TYY6SwRN5hAGK1JmJWxfDcPYPPL278AvATq7d2w",
+    "data_type": "holder_info",
+    "sol_balance": 99.95203928,
+    "token_balance_owner": "GzqnHfnk7Kmqn5UsF2FX7u9x8nbbMdbk32ZVsZ3Fv3wj",
+    "token_mint_address": "So11111111111111111111111111111111111111112",
+    "usd_value": 24641.673,
+    "volume": 0
+  }
+]
