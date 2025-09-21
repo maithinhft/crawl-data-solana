@@ -10,7 +10,7 @@ async def fetch_transaction_history(address: str, timestamp: int, before_sig: st
     result = []
     async with httpx.AsyncClient() as client:
         while (True):
-            print("here\n")
+            print(before_sig)
             opts = {}
             batch_size = 25
             opts['limit'] = batch_size
@@ -37,6 +37,7 @@ async def fetch_transaction_history(address: str, timestamp: int, before_sig: st
                     is_stop_fetch = False
                     list_tx = []
                     for tx in data['result']:
+                        before_sig = tx['signature']
                         if tx['blockTime'] >= timestamp:
                             list_tx.append(tx)
                         else:
