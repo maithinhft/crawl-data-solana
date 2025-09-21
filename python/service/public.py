@@ -10,7 +10,6 @@ async def fetch_transaction_history(address: str, timestamp: int, before_sig: st
     result = []
     async with httpx.AsyncClient() as client:
         while (True):
-            print(before_sig)
             opts = {}
             batch_size = 25
             opts['limit'] = batch_size

@@ -85,6 +85,7 @@ async def main():
             is_start_fetch_data = True
 
         if is_start_fetch_data:
+            print(f"fetch data address: {address}")
             result['last_update_address'] = address
             if address not in result['txs']:
                 result['txs'][address] = []
