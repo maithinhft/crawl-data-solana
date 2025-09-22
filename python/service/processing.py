@@ -128,7 +128,7 @@ async def multi_processing():
             None
         )
         for user in list_users
-        if user['address'] not in result['txs'] or len(result['txs'][user['address']]) == 0
+        if user['address'] not in result['txs']
     ]
 
     processed_count = 0
