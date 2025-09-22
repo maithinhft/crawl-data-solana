@@ -125,7 +125,7 @@ async def multi_processing():
         (
             user['address'],
             target_timestamp,
-            None if user['address'] not in result['txs'] else result['txs'][user['address']][-1]['signature']
+            None if user['address'] not in result['txs'] or len(result['txs'][user['address']]) == 0 else result['txs'][user['address']][-1]['signature']
         )
         for user in list_users
     ]
