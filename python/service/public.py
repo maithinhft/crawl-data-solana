@@ -5,8 +5,7 @@ from common.constants import LENDING, PERPS_OR_MEME
 import os
 
 async def fetch_transaction_history(address: str, timestamp: int, before_sig: str | None = None):
-    ALCHEMY_API_KEY = os.getenv("ALCHEMY_API_KEY", "")
-    URL = f"https://solana-mainnet.g.alchemy.com/v2/{ALCHEMY_API_KEY}"
+    RPC_URL=os.getenv('RPC_URL', '')
     result = []
     async with httpx.AsyncClient() as client:
         while (True):
@@ -27,10 +26,10 @@ async def fetch_transaction_history(address: str, timestamp: int, before_sig: st
                 ]
             }
             try:
-                response = await client.post(URL, headers=headers, json=payload, timeout=60.0)
+                response = await client.post(RPC_URL, headers=headers, json=payload, timeout=60.0)
                 response.raise_for_status()
                 data = response.json()
-                await sleep(1000)
+                await sleep(2000)
 
                 if isinstance(data['result'], list):
                     is_stop_fetch = False
@@ -55,8 +54,7 @@ async def fetch_transaction_history(address: str, timestamp: int, before_sig: st
     return result
 
 async def fetch_transaction_history_v2(address: str, timestamp: int, before_sig: str | None = None):
-    ALCHEMY_API_KEY = os.getenv("ALCHEMY_API_KEY", "")
-    URL = f"https://solana-mainnet.g.alchemy.com/v2/{ALCHEMY_API_KEY}"
+    RPC_URL=os.getenv('RPC_URL', '')
     result = []
     async with httpx.AsyncClient() as client:
         while (True):
@@ -77,10 +75,10 @@ async def fetch_transaction_history_v2(address: str, timestamp: int, before_sig:
                 ]
             }
             try:
-                response = await client.post(URL, headers=headers, json=payload, timeout=60.0)
+                response = await client.post(RPC_URL, headers=headers, json=payload, timeout=60.0)
                 response.raise_for_status()
                 data = response.json()
-                await sleep(1000)
+                await sleep(2000)
 
                 if isinstance(data['result'], list):
                     is_stop_fetch = False
@@ -163,8 +161,7 @@ def load_account_from_tx_info(tx_info):
 
 
 async def fetch_txs_info_v2(list_signature: list):
-    ALCHEMY_API_KEY = os.getenv("ALCHEMY_API_KEY", "")
-    URL = f"https://solana-mainnet.g.alchemy.com/v2/{ALCHEMY_API_KEY}"
+    RPC_URL=os.getenv('RPC_URL', '')
     headers = {
         "Content-Type": "application/json"
     }
@@ -184,10 +181,10 @@ async def fetch_txs_info_v2(list_signature: list):
         })
     async with httpx.AsyncClient() as client:
         try:
-            response = await client.post(URL, headers=headers, json=payloads, timeout=60.0)
+            response = await client.post(RPC_URL, headers=headers, json=payloads, timeout=60.0)
             response.raise_for_status()
             txs_info = response.json()
-            await sleep(1000)
+            await sleep(2000)
             data = [{} for i in range(0, len(txs_info))]
             for tx_info in txs_info:
                 data[tx_info['id'] - 1] = tx_info
@@ -199,8 +196,7 @@ async def fetch_txs_info_v2(list_signature: list):
 
 
 async def fetch_txs_info(signature):
-    ALCHEMY_API_KEY = os.getenv("ALCHEMY_API_KEY", "")
-    URL = f"https://solana-mainnet.g.alchemy.com/v2/{ALCHEMY_API_KEY}"
+    RPC_URL=os.getenv('RPC_URL', '')
     headers = {
         "Content-Type": "application/json"
     }
@@ -218,7 +214,7 @@ async def fetch_txs_info(signature):
     }
     async with httpx.AsyncClient() as client:
         try:
-            response = await client.post(URL, headers=headers, json=payload, timeout=60.0)
+            response = await client.post(RPC_URL, headers=headers, json=payload, timeout=60.0)
             response.raise_for_status()
             data = response.json()
             await sleep(200)
@@ -242,8 +238,7 @@ def check_signer(tx_info, signer):
 
 
 async def check_bot_account(list_user):
-    ALCHEMY_API_KEY = os.getenv("ALCHEMY_API_KEY", "")
-    URL = f"https://solana-mainnet.g.alchemy.com/v2/{ALCHEMY_API_KEY}"
+    RPC_URL=os.getenv('RPC_URL', '')
     users = []
     async with httpx.AsyncClient() as client:
         for user in list_user:
@@ -263,10 +258,10 @@ async def check_bot_account(list_user):
             }
             is_bot = False
             try:
-                response = await client.post(URL, headers=headers, json=payload, timeout=60.0)
+                response = await client.post(RPC_URL, headers=headers, json=payload, timeout=60.0)
                 response.raise_for_status()
                 data = response.json()
-                await sleep(1000)
+                await sleep(2000)
 
                 txs = []
                 for tx in data['result']:
@@ -297,8 +292,7 @@ async def check_bot_account(list_user):
 
 
 async def get_account_info(address: str):
-    ALCHEMY_API_KEY = os.getenv("ALCHEMY_API_KEY", "")
-    URL = f"https://solana-mainnet.g.alchemy.com/v2/{ALCHEMY_API_KEY}"
+    RPC_URL=os.getenv('RPC_URL', '')
     async with httpx.AsyncClient() as client:
         headers = {
             "Content-Type": "application/json"
@@ -313,10 +307,10 @@ async def get_account_info(address: str):
         }
 
         try:
-            response = await client.post(url=URL, headers=headers, json=payload, timeout=60.0)
+            response = await client.post(RPC_URL, headers=headers, json=payload, timeout=60.0)
             response.raise_for_status()
             data = response.json()
-            await sleep(1000)
+            await sleep(2000)
             return data
         except Exception as e:
             print(e)
