@@ -1,6 +1,6 @@
 import httpx
 import json
-from .helper import sleep
+from .helper import sleep, save_json_file
 from common.constants import LENDING, PERPS_OR_MEME
 import os
 
@@ -102,8 +102,6 @@ async def fetch_transaction_history_v2(address: str, timestamp: int, before_sig:
             except Exception as e:
                 print(f"Lỗi không xác định: {e}")
                 break
-            
-            break
     return result
 
 async def transfrom_transactions_v2(list_transaction: list):
@@ -114,9 +112,9 @@ async def transfrom_transactions_v2(list_transaction: list):
         confirmation_status = tx['confirmationStatus']
         if signature and confirmation_status == 'finalized':
             list_sig.append(signature)
-
     list_txs_info = await fetch_txs_info_v2(list_sig)
-    for tx_info in list_txs_info:
+    for index, tx_info in enumerate(list_txs_info):
+        signature = list_transaction[index]['signature']
         account_keys = load_account_from_tx_info(tx_info)
         is_lending = any(key in LENDING for key in account_keys)
         is_perps_or_meme = any(
@@ -174,7 +172,7 @@ async def fetch_txs_info_v2(list_signature: list):
     for index, signature in enumerate(list_signature):
         payloads.append({
             "jsonrpc": "2.0",
-            "id": index + 1,  # Dùng index để mỗi request có id duy nhất
+            "id": index + 1,  
             "method": "getTransaction",
             "params": [
                 signature,

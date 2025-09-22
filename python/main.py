@@ -12,12 +12,9 @@ import json
 import time
 import random
 
-from service.helper import sleep, save_json_file, load_json_file, check_exist_file
-from service.dune import fetch_data
-from service.helius import fetch_multi_account_infos
-from service.public import fetch_transaction_history, fetch_txs_info, fetch_transaction_history_v2
+from service import *
 
-from common.constants import ONE_DAY_TIMESTAMP
+from common import *
 
 QUERY_ID = {
     "top_holder_sol": 5783669,
