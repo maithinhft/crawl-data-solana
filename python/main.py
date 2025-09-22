@@ -10,11 +10,12 @@ from spl.token.constants import TOKEN_PROGRAM_ID
 import argparse
 import json
 import time
+import random
 
 from service.helper import sleep, save_json_file, load_json_file, check_exist_file
 from service.dune import fetch_data
 from service.helius import fetch_multi_account_infos
-from service.public import fetch_transaction_history, fetch_txs_info
+from service.public import fetch_transaction_history, fetch_txs_info, fetch_transaction_history_v2
 
 from common.constants import ONE_DAY_TIMESTAMP
 
@@ -25,6 +26,9 @@ QUERY_ID = {
     "top_holder_usdt": 5783568,
     "top_holder_usdc": 5776530,
 }
+
+see_value = 42
+random.seed(see_value)
 
 
 async def main():
@@ -67,14 +71,17 @@ async def main():
             user_dic[address]['balance'] += user['usd_value']
             user_dic[address]['volume'] += user['volume']
     list_users = list(user_dic.values())
-
+    volume_0_users = [user for user in list_users if user['volume'] == 0]
+    volume_not_0_users = [user for user in list_users if user['volume'] != 0]
+    list_users = random.sample(volume_0_users, 500) + random.sample(volume_not_0_users, 500)
+    random.shuffle(list_users)
     schema = load_json_file("./data/schema.json")
     timestamp = schema['timestamp']
 
     result = schema
     if check_exist_file('./data/transfrom_user.json'):
         result = load_json_file('./data/transfrom_user.json')
-    
+
     if len(result['account']) == 0:
         result['account'] = list_users
 
@@ -94,7 +101,7 @@ async def main():
             if len(result['txs'][address]) != 0:
                 before_sig = result['txs'][address][-1]['address']
 
-            fetch_txs = await fetch_transaction_history(address, timestamp - 30 * ONE_DAY_TIMESTAMP, before_sig)
+            fetch_txs = await fetch_transaction_history_v2(address, timestamp - 30 * ONE_DAY_TIMESTAMP, before_sig)
             for tx in fetch_txs:
                 result['txs'][address].append(tx)
             save_json_file('./data/transfrom_user.json', result)
