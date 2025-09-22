@@ -4,8 +4,7 @@ from .helper import sleep, save_json_file
 from common.constants import LENDING, PERPS_OR_MEME
 import os
 
-async def fetch_transaction_history(address: str, timestamp: int, before_sig: str | None = None):
-    RPC_URL=os.getenv('RPC_URL', '')
+async def fetch_transaction_history(RPC_URL: str, address: str, timestamp: int, before_sig: str | None = None):
     result = []
     async with httpx.AsyncClient() as client:
         while (True):
@@ -41,7 +40,7 @@ async def fetch_transaction_history(address: str, timestamp: int, before_sig: st
                         else:
                             is_stop_fetch = True
                             break
-                    result.extend(await transform_transactions(list_tx))
+                    result.extend(await transform_transactions(RPC_URL, list_tx))
                     if is_stop_fetch:
                         break
             except httpx.HTTPStatusError as e:
@@ -53,8 +52,7 @@ async def fetch_transaction_history(address: str, timestamp: int, before_sig: st
                 break
     return result
 
-async def fetch_transaction_history_v2(address: str, timestamp: int, before_sig: str | None = None):
-    RPC_URL=os.getenv('RPC_URL', '')
+async def fetch_transaction_history_v2(RPC_URL: str, address: str, timestamp: int, before_sig: str | None = None):
     result = []
     async with httpx.AsyncClient() as client:
         while (True):
@@ -90,7 +88,7 @@ async def fetch_transaction_history_v2(address: str, timestamp: int, before_sig:
                         else:
                             is_stop_fetch = True
                             break
-                    result.extend(await transfrom_transactions_v2(list_tx))
+                    result.extend(await transfrom_transactions_v2(RPC_URL, list_tx))
                     if is_stop_fetch:
                         break
             except httpx.HTTPStatusError as e:
@@ -102,7 +100,7 @@ async def fetch_transaction_history_v2(address: str, timestamp: int, before_sig:
                 break
     return result
 
-async def transfrom_transactions_v2(list_transaction: list):
+async def transfrom_transactions_v2(RPC_URL: str, list_transaction: list):
     result = []
     list_sig = []
     for tx in list_transaction:
@@ -110,7 +108,7 @@ async def transfrom_transactions_v2(list_transaction: list):
         confirmation_status = tx['confirmationStatus']
         if signature and confirmation_status == 'finalized':
             list_sig.append(signature)
-    list_txs_info = await fetch_txs_info_v2(list_sig)
+    list_txs_info = await fetch_txs_info_v2(RPC_URL, list_sig)
     for index, tx_info in enumerate(list_txs_info):
         signature = list_transaction[index]['signature']
         account_keys = load_account_from_tx_info(tx_info)
@@ -127,13 +125,13 @@ async def transfrom_transactions_v2(list_transaction: list):
     return result
 
 
-async def transform_transactions(list_transaction: list):
+async def transform_transactions(RPC_URL: str,list_transaction: list):
     result = []
     for tx in list_transaction:
         signature = tx['signature']
         confirmation_status = tx['confirmationStatus']
         if signature and confirmation_status == 'finalized':
-            tx_info = await fetch_txs_info(signature)
+            tx_info = await fetch_txs_info(RPC_URL, signature)
             account_keys = load_account_from_tx_info(tx_info)
             is_lending = any(key in LENDING for key in account_keys)
             is_perps_or_meme = any(
@@ -160,8 +158,7 @@ def load_account_from_tx_info(tx_info):
     return result
 
 
-async def fetch_txs_info_v2(list_signature: list):
-    RPC_URL=os.getenv('RPC_URL', '')
+async def fetch_txs_info_v2(RPC_URL: str, list_signature: list):
     headers = {
         "Content-Type": "application/json"
     }
@@ -195,8 +192,7 @@ async def fetch_txs_info_v2(list_signature: list):
             print(f"Lỗi không xác định: {e}")
 
 
-async def fetch_txs_info(signature):
-    RPC_URL=os.getenv('RPC_URL', '')
+async def fetch_txs_info(RPC_URL: str, signature):
     headers = {
         "Content-Type": "application/json"
     }
@@ -237,8 +233,7 @@ def check_signer(tx_info, signer):
     return False
 
 
-async def check_bot_account(list_user):
-    RPC_URL=os.getenv('RPC_URL', '')
+async def check_bot_account(RPC_URL, list_user):
     users = []
     async with httpx.AsyncClient() as client:
         for user in list_user:
@@ -291,8 +286,7 @@ async def check_bot_account(list_user):
     return users
 
 
-async def get_account_info(address: str):
-    RPC_URL=os.getenv('RPC_URL', '')
+async def get_account_info(RPC_URL, address: str):
     async with httpx.AsyncClient() as client:
         headers = {
             "Content-Type": "application/json"

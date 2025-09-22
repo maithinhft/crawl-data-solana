@@ -13,4 +13,12 @@ PERPS_OR_MEME = {
     
 }
 
+QUERY_ID = {
+    "top_holder_sol": 5783669,
+    "top_holder_wsol": 5783651,
+    "top_holder_usde": 5783639,
+    "top_holder_usdt": 5783568,
+    "top_holder_usdc": 5776530,
+}
+
 ONE_DAY_TIMESTAMP = 24 * 60 * 60 
