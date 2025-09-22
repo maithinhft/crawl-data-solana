@@ -131,7 +131,7 @@ async def multi_processing():
     ]
 
     processed_count = 0
-    SAVE_BATCH_SIZE = 50
+    SAVE_BATCH_SIZE = 3
 
     with multiprocessing.Pool(
         processes=num_processes,
