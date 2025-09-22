@@ -30,7 +30,7 @@ async def main():
         return
 
     load_dotenv(dotenv_path=path_to_env_file)
-    # single_process()
-    multi_processing()
+    # await single_process()
+    await multi_processing()
 if __name__ == "__main__":
     asyncio.run(main())
