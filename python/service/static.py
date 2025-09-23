@@ -16,6 +16,7 @@ def static_data(data):
         perp_or_meme = 0
         volume = account['volume']
         if address in txs:
+            total_txs = len(txs[address])
             for tx in txs[address]:
                 if tx['is_lending'] == True:
                     lending += 1
