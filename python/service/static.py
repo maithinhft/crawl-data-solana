@@ -1,10 +1,10 @@
 import os
-import httpx
+import requests
 import math
 from .helper import sleep
 
 
-async def static_data(data):
+def static_data(data):
     accounts = data['account']
     txs = data['txs']
     values = []
@@ -23,10 +23,10 @@ async def static_data(data):
                     perp_or_meme += 1
             row = [address, balance, total_txs, lending, perp_or_meme, volume]
             values.append(row)
-    await update_sheet('Data', 2, 1, values)
+    update_sheet('Data', 2, 1, values)
 
 
-async def update_sheet(sheet_name, start_row, start_col, values):
+def update_sheet(sheet_name, start_row, start_col, values):
     GOOGLE_APP_SCRIPT = os.getenv(
         'GOOGLE_APP_SCRIPT', 'https://script.google.com')
     payload = {
@@ -35,18 +35,13 @@ async def update_sheet(sheet_name, start_row, start_col, values):
         "startCol": start_col,
         "values": values
     }
-    async with httpx.AsyncClient() as client:
-        try:
-            resonse = await client.post(GOOGLE_APP_SCRIPT, json=payload, timeout=60.0, follow_redirects=True)
-            resonse.raise_for_status()
-            data = resonse.json()
-            print(f"update sheet {data['status']}")
-            await sleep(2000)
-        except httpx.HTTPStatusError as e:
-            print(
-                f"Lỗi HTTP: {e.response.status_code} - {e.response.text}")
-        except Exception as e:
-            print(f"Lỗi không xác định: {e}")
+    try:
+        resonse = requests.post(GOOGLE_APP_SCRIPT, json=payload, timeout=60.0)
+        resonse.raise_for_status()
+        data = resonse.json()
+        print(f"update sheet {data['status']}")
+    except Exception as e:
+        print(f"Lỗi không xác định: {e}")
 
 
 def format_significant(number, sig_figs):

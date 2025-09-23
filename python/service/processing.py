@@ -81,9 +81,6 @@ def wrap_fetch_transaction_history_v2(address: str, timestamp: int, before_sig: 
 
     return (address, fetched_txs)
 
-def wrap_static_data(data):
-    asyncio.run(static_data(data))
-
 def starmap_wrapper(args):
     return wrap_fetch_transaction_history_v2(*args)
 
@@ -147,7 +144,7 @@ async def multi_processing():
                 result['txs'][address] = []
 
             result['txs'][address].extend(query_user)
-            wrap_static_data(result)
+            static_data(result)
             processed_count += 1
 
             if processed_count % SAVE_BATCH_SIZE == 0:
