@@ -30,6 +30,8 @@ async def main():
         return
 
     load_dotenv(dotenv_path=path_to_env_file)
+    if not fetch_transform_user_file():
+        return
     # await single_process()
     await multi_processing()
 if __name__ == "__main__":

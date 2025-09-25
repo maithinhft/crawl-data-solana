@@ -2,6 +2,7 @@ import asyncio
 import base58
 import json
 from pathlib import Path
+import requests
 
 async def sleep(ms: int):
     await asyncio.sleep(ms / 1000.0)
@@ -29,3 +30,16 @@ def save_json_file(file_path, data):
 def check_exist_file(file_path):
     file = Path(file_path)
     return file.exists()
+
+def fetch_transform_user_file():
+    url = 'https://30sl1olc8t.ucarecd.net/c876af7a-5d93-40da-9c93-f5f639604403/'
+
+    response = requests.get(url)
+    if response.status_code == 200:
+        with open('./data/transfrom_user.json', 'wb') as f:
+            f.write(response.content)
+        print("Tải file thành công và lưu thành 'transfrom_user.json'")
+        return True
+    else:
+        print(f"Tải thất bại, status code: {response.status_code}")
+        return False
