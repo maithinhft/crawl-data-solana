@@ -32,7 +32,7 @@ def check_exist_file(file_path):
     return file.exists()
 
 def fetch_transform_user_file():
-    url = 'https://30sl1olc8t.ucarecd.net/2f0ebb49-2d60-41a8-82a4-9eae1ea55411/'
+    url = 'https://30sl1olc8t.ucarecd.net/ea69afb3-f42a-4878-a1d8-dd99755f0b2c/'
 
     response = requests.get(url)
     if response.status_code == 200:
